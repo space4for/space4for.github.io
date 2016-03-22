@@ -1,0 +1,16 @@
+﻿{
+	"members" : [
+		{
+			"name" : "이란희", 
+			"title" : "팀장",
+			"phone" : "010 6315 8786",
+			"email" : "ranh8786@space4.co.kr",
+		},
+		{
+			"name" : "심호기", 
+			"title" : "프리랜서",
+			"phone" : "010 6315 8786",
+			"email" : "ranh8786@space4.co.kr"
+		}
+	]
+}

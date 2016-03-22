@@ -1,0 +1,23 @@
+.site-footer {
+	position: fixed;
+	bottom : 0;
+	width: 100%;
+	height: 40px;
+	background-color: rgba(255,255,255,0.7);
+	
+	.copyright {
+		float: left;
+		font-size: 0.7em;
+	}
+	
+	.logo-footer {
+		display: block;
+		float: right;
+		margin-right: 20px;
+		font-weight: 700;		
+	}
+	
+	@include media-query($on-palm) {
+		position: relative;
+	}
+}
