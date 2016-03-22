@@ -1,0 +1,11 @@
+---
+layout : base
+title : Project
+---
+
+<div class="home">
+	{% for project in site.data.projects.projects %}
+		{{project.type}}
+		{{project.title}}<br>
+	{% endfor %}
+</div>

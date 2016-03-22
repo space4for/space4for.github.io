@@ -1,0 +1,11 @@
+---
+layout : base
+title : People
+---
+
+<div class="home">
+	{% for member in site.data.members.members %}
+	{{member.name}}
+	{{member.title}}<br>
+	{% endfor %}
+</div>
