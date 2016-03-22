@@ -95,8 +95,18 @@
  * Home
  */
  
- .home {
+.home {
 	display: inline-block;
+	width: calc(100% - 100px);
+	
+	@include media-query($on-palm) {
+		width: 100%;
+	}
+}
+
+.about {
+	margin: 200px;
+	text-align: center;
 }
 
 /**
