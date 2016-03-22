@@ -1,0 +1,43 @@
+﻿{
+	"projects" :[
+		{
+			"type" : "Leisure",
+			"title" : "솔모로 C.C. 클럽하우스",
+			"year" : 2014,
+			"location" : "어디야 이거",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2014_sol_1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_2.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_3.jpg"
+				},
+{
+					"url" : "/assets/images/projects/2014_sol_4.jpg"
+				}						
+			]
+		},
+		
+		
+		{
+			"type" : "Leisure",
+			"title" : "호기네집",
+			"year" : 2014,
+			"location" : "어디야 이거",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2014_sol_1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_2.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_3.jpg"
+				}				
+			]
+		}
+	]
+}
