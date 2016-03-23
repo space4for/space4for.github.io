@@ -1,6 +1,363 @@
 ﻿{
 	"projects" :[
 		{
+			"type" : "Medical",
+			"title" : "제주대학교 병원",
+			"year" : 2014,
+			"location" : "어디야 이거",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2014_sol_1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_2.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_3.jpg"
+				},
+{
+					"url" : "/assets/images/projects/2014_sol_4.jpg"
+				}						
+			]
+		},
+		
+		{
+			"type" : "Medical",
+			"title" : "몽골 자이승 산후조리원 기획",
+			"year" : 2014,
+			"location" : "어디야 이거",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2014_sol_1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_2.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_3.jpg"
+				},
+{
+					"url" : "/assets/images/projects/2014_sol_4.jpg"
+				}						
+			]
+		},
+		
+		{
+			"type" : "Office",
+			"title" : "메리츠화재 강남 신사옥",
+			"year" : 2014,
+			"location" : "어디야 이거",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2014_sol_1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_2.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_3.jpg"
+				},
+{
+					"url" : "/assets/images/projects/2014_sol_4.jpg"
+				}						
+			]
+		},
+		
+		{
+			"type" : "Office",
+			"title" : "한진 중공업 필리핀 영빈관",
+			"year" : 2014,
+			"location" : "어디야 이거",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2014_sol_1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_2.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_3.jpg"
+				},
+{
+					"url" : "/assets/images/projects/2014_sol_4.jpg"
+				}						
+			]
+		},
+		
+		{
+			"type" : "Office",
+			"title" : "한진 중공업 마닐라 사옥 V.I.P층",
+			"year" : 2014,
+			"location" : "어디야 이거",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2014_sol_1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_2.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_3.jpg"
+				},
+{
+					"url" : "/assets/images/projects/2014_sol_4.jpg"
+				}						
+			]
+		},
+		
+		{
+			"type" : "Office",
+			"title" : "한진 중공업 중앙동 사옥",
+			"year" : 2014,
+			"location" : "어디야 이거",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2014_sol_1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_2.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_3.jpg"
+				},
+{
+					"url" : "/assets/images/projects/2014_sol_4.jpg"
+				}						
+			]
+		},
+		
+		{
+			"type" : "Office",
+			"title" : "한국표준과학연구소 역학동",
+			"year" : 2014,
+			"location" : "어디야 이거",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2014_sol_1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_2.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_3.jpg"
+				},
+{
+					"url" : "/assets/images/projects/2014_sol_4.jpg"
+				}						
+			]
+		},
+		
+		{
+			"type" : "Office",
+			"title" : "한국표준과학연구소 행정동 커뮤니케이션센터",
+			"year" : 2014,
+			"location" : "어디야 이거",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2014_sol_1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_2.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_3.jpg"
+				},
+{
+					"url" : "/assets/images/projects/2014_sol_4.jpg"
+				}						
+			]
+		},
+		
+		{
+			"type" : "Office",
+			"title" : "한국표준과학연구소 첨단동 라운지 ",
+			"year" : 2014,
+			"location" : "어디야 이거",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2014_sol_1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_2.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_3.jpg"
+				},
+{
+					"url" : "/assets/images/projects/2014_sol_4.jpg"
+				}						
+			]
+		},
+		
+		{
+			"type" : "Office",
+			"title" : "한국표준과학연구소 행정동 회의실 ",
+			"year" : 2014,
+			"location" : "어디야 이거",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2014_sol_1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_2.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_3.jpg"
+				},
+{
+					"url" : "/assets/images/projects/2014_sol_4.jpg"
+				}						
+			]
+		},
+		
+		{
+			"type" : "Office",
+			"title" : "금강제화  V.I.P층",
+			"year" : 2014,
+			"location" : "어디야 이거",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2014_sol_1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_2.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_3.jpg"
+				},
+{
+					"url" : "/assets/images/projects/2014_sol_4.jpg"
+				}						
+			]
+		},
+		
+		{
+			"type" : "Office",
+			"title" : "유진 투자 증권 임원층 현상설계",
+			"year" : 2014,
+			"location" : "어디야 이거",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2014_sol_1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_2.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_3.jpg"
+				},
+{
+					"url" : "/assets/images/projects/2014_sol_4.jpg"
+				}						
+			]
+		},
+		
+		{
+			"type" : "Office",
+			"title" : "계룡 건설 현상설계	",
+			"year" : 2014,
+			"location" : "어디야 이거",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2014_sol_1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_2.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_3.jpg"
+				},
+{
+					"url" : "/assets/images/projects/2014_sol_4.jpg"
+				}						
+			]
+		},
+		
+		{
+			"type" : "Office",
+			"title" : "컴투게더 사옥 옥탑 라운지",
+			"year" : 2014,
+			"location" : "어디야 이거",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2014_sol_1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_2.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_3.jpg"
+				},
+{
+					"url" : "/assets/images/projects/2014_sol_4.jpg"
+				}						
+			]
+		},
+		
+		{
+			"type" : "Office",
+			"title" : "LANDMARK C&D OFFICE",
+			"year" : 2014,
+			"location" : "어디야 이거",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2014_sol_1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_2.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_3.jpg"
+				},
+{
+					"url" : "/assets/images/projects/2014_sol_4.jpg"
+				}						
+			]
+		},
+		
+		{
+			"type" : "Office",
+			"title" : "산림 비전 센터 다목적 식당 설계",
+			"year" : 2014,
+			"location" : "어디야 이거",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2014_sol_1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_2.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_3.jpg"
+				},
+{
+					"url" : "/assets/images/projects/2014_sol_4.jpg"
+				}						
+			]
+		},
+		
+		{
+			"type" : "Office",
+			"title" : "삼성 SDI 울산공장 ",
+			"year" : 2014,
+			"location" : "어디야 이거",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2014_sol_1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_2.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_3.jpg"
+				},
+{
+					"url" : "/assets/images/projects/2014_sol_4.jpg"
+				}						
+			]
+		},
+		
+		{
 			"type" : "Leisure",
 			"title" : "솔모로 C.C. 클럽하우스",
 			"year" : 2014,
@@ -21,10 +378,9 @@
 			]
 		},
 		
-		
 		{
 			"type" : "Leisure",
-			"title" : "란희네 집",
+			"title" : "말레이시아 Pool Villa",
 			"year" : 2014,
 			"location" : "어디야 이거",
 			"images" : [
@@ -36,7 +392,535 @@
 				},
 				{
 					"url" : "/assets/images/projects/2014_sol_3.jpg"
-				}				
+				},
+{
+					"url" : "/assets/images/projects/2014_sol_4.jpg"
+				}						
+			]
+		},
+		
+		{
+			"type" : "Leisure",
+			"title" : "J HOTEL",
+			"year" : 2014,
+			"location" : "어디야 이거",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2014_sol_1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_2.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_3.jpg"
+				},
+{
+					"url" : "/assets/images/projects/2014_sol_4.jpg"
+				}						
+			]
+		},
+		
+		{
+			"type" : "Leisure",
+			"title" : "제주 성산 라마다 앙코르 호텔 객실 / M.H",
+			"year" : 2014,
+			"location" : "어디야 이거",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2014_sol_1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_2.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_3.jpg"
+				},
+{
+					"url" : "/assets/images/projects/2014_sol_4.jpg"
+				}						
+			]
+		},
+		
+		{
+			"type" : "Leisure",
+			"title" : "제주 함덕 라마다 앙코르 호텔 객실",
+			"year" : 2014,
+			"location" : "어디야 이거",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2014_sol_1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_2.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_3.jpg"
+				},
+{
+					"url" : "/assets/images/projects/2014_sol_4.jpg"
+				}						
+			]
+		},
+		
+		{
+			"type" : "Leisure",
+			"title" : "제주 성산 코업 시티 호텔 ",
+			"year" : 2014,
+			"location" : "어디야 이거",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2014_sol_1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_2.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_3.jpg"
+				},
+{
+					"url" : "/assets/images/projects/2014_sol_4.jpg"
+				}						
+			]
+		},
+		
+		{
+			"type" : "Leisure",
+			"title" : "인천 작전동 H호텔",
+			"year" : 2014,
+			"location" : "어디야 이거",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2014_sol_1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_2.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_3.jpg"
+				},
+{
+					"url" : "/assets/images/projects/2014_sol_4.jpg"
+				}						
+			]
+		},
+		
+		{
+			"type" : "Leisure",
+			"title" : "경주 진현동 펜션",
+			"year" : 2014,
+			"location" : "어디야 이거",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2014_sol_1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_2.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_3.jpg"
+				},
+{
+					"url" : "/assets/images/projects/2014_sol_4.jpg"
+				}						
+			]
+		},
+		
+		{
+			"type" : "Residence",
+			"title" : "한남동 C 주택",
+			"year" : 2014,
+			"location" : "어디야 이거",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2014_sol_1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_2.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_3.jpg"
+				},
+{
+					"url" : "/assets/images/projects/2014_sol_4.jpg"
+				}						
+			]
+		},
+		
+		{
+			"type" : "Residence",
+			"title" : "대전 문화동 주상복합",
+			"year" : 2014,
+			"location" : "어디야 이거",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2014_sol_1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_2.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_3.jpg"
+				},
+{
+					"url" : "/assets/images/projects/2014_sol_4.jpg"
+				}						
+			]
+		},
+		
+		{
+			"type" : "Residence",
+			"title" : "이태원 H 주택",
+			"year" : 2014,
+			"location" : "어디야 이거",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2014_sol_1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_2.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_3.jpg"
+				},
+{
+					"url" : "/assets/images/projects/2014_sol_4.jpg"
+				}						
+			]
+		},
+		
+		{
+			"type" : "Residence",
+			"title" : "양평 L 주택",
+			"year" : 2014,
+			"location" : "어디야 이거",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2014_sol_1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_2.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_3.jpg"
+				},
+{
+					"url" : "/assets/images/projects/2014_sol_4.jpg"
+				}						
+			]
+		},
+		
+		{
+			"type" : "Residence",
+			"title" : "서울대역 디오빌 오피스텔",
+			"year" : 2014,
+			"location" : "어디야 이거",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2014_sol_1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_2.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_3.jpg"
+				},
+{
+					"url" : "/assets/images/projects/2014_sol_4.jpg"
+				}						
+			]
+		},
+		
+		{
+			"type" : "Residence",
+			"title" : "판교 주공 연립주택",
+			"year" : 2014,
+			"location" : "어디야 이거",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2014_sol_1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_2.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_3.jpg"
+				},
+{
+					"url" : "/assets/images/projects/2014_sol_4.jpg"
+				}						
+			]
+		},
+		
+		{
+			"type" : "Residence",
+			"title" : "올림픽 선수촌 아파트",
+			"year" : 2014,
+			"location" : "어디야 이거",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2014_sol_1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_2.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_3.jpg"
+				},
+{
+					"url" : "/assets/images/projects/2014_sol_4.jpg"
+				}						
+			]
+		},
+		
+		{
+			"type" : "Residence",
+			"title" : "동양파라곤2 UNIT 리모델링",
+			"year" : 2014,
+			"location" : "어디야 이거",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2014_sol_1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_2.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_3.jpg"
+				},
+{
+					"url" : "/assets/images/projects/2014_sol_4.jpg"
+				}						
+			]
+		},
+		
+		{
+			"type" : "Residence",
+			"title" : "양평 O 주택",
+			"year" : 2014,
+			"location" : "어디야 이거",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2014_sol_1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_2.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_3.jpg"
+				},
+{
+					"url" : "/assets/images/projects/2014_sol_4.jpg"
+				}						
+			]
+		},
+		
+		{
+			"type" : "Residence",
+			"title" : "서교동 주택 리모델링",
+			"year" : 2014,
+			"location" : "어디야 이거",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2014_sol_1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_2.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_3.jpg"
+				},
+{
+					"url" : "/assets/images/projects/2014_sol_4.jpg"
+				}						
+			]
+		},
+		
+		{
+			"type" : "Residence",
+			"title" : "인천 청라지구 봄빌딩",
+			"year" : 2014,
+			"location" : "어디야 이거",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2014_sol_1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_2.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_3.jpg"
+				},
+{
+					"url" : "/assets/images/projects/2014_sol_4.jpg"
+				}						
+			]
+		},
+		
+		{
+			"type" : "Residence",
+			"title" : "한일건설 베라체 M/H 및 세대",
+			"year" : 2014,
+			"location" : "어디야 이거",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2014_sol_1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_2.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_3.jpg"
+				},
+{
+					"url" : "/assets/images/projects/2014_sol_4.jpg"
+				}						
+			]
+		},
+		
+		{
+			"type" : "Education",
+			"title" : "한국표준과학연구소 직장 어린이집",
+			"year" : 2014,
+			"location" : "어디야 이거",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2014_sol_1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_2.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_3.jpg"
+				},
+{
+					"url" : "/assets/images/projects/2014_sol_4.jpg"
+				}						
+			]
+		},
+		
+		{
+			"type" : "Education",
+			"title" : "신광 초등학교 리노베이션",
+			"year" : 2014,
+			"location" : "어디야 이거",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2014_sol_1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_2.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_3.jpg"
+				},
+{
+					"url" : "/assets/images/projects/2014_sol_4.jpg"
+				}						
+			]
+		},
+		
+		{
+			"type" : "Education",
+			"title" : "과학기술연합대학원 대학교(UST) 대학본부",
+			"year" : 2014,
+			"location" : "어디야 이거",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2014_sol_1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_2.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_3.jpg"
+				},
+{
+					"url" : "/assets/images/projects/2014_sol_4.jpg"
+				}						
+			]
+		},
+		
+		{
+			"type" : "Education",
+			"title" : "정선 생태체험학습장 전시관 현상설계",
+			"year" : 2014,
+			"location" : "어디야 이거",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2014_sol_1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_2.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_3.jpg"
+				},
+{
+					"url" : "/assets/images/projects/2014_sol_4.jpg"
+				}						
+			]
+		},
+		
+		{
+			"type" : "Commercial",
+			"title" : "청담동 포레스트힐 카페 ",
+			"year" : 2014,
+			"location" : "어디야 이거",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2014_sol_1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_2.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_3.jpg"
+				},
+{
+					"url" : "/assets/images/projects/2014_sol_4.jpg"
+				}						
+			]
+		},
+		
+		{
+			"type" : "Commercial",
+			"title" : "토니모리 매뉴얼 설계",
+			"year" : 2014,
+			"location" : "어디야 이거",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2014_sol_1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_2.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_3.jpg"
+				},
+{
+					"url" : "/assets/images/projects/2014_sol_4.jpg"
+				}						
+			]
+		},
+		
+		{
+			"type" : "Commercial",
+			"title" : "나뚜르 카페 현상설계",
+			"year" : 2014,
+			"location" : "어디야 이거",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2014_sol_1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_2.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_3.jpg"
+				},
+{
+					"url" : "/assets/images/projects/2014_sol_4.jpg"
+				}						
 			]
 		}
 	]

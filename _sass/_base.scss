@@ -11,6 +11,10 @@ dl, dd, ol, ul, figure {
 /**
  * Basic styling
  */
+html, body {
+	height: 100%;
+}
+
 body {
     font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
     color: $text-color;
@@ -79,6 +83,7 @@ a {
     margin-left: auto;
     padding-right: $spacing-unit;
     padding-left: $spacing-unit;
+	
     @extend %clearfix;
 
     @include media-query($on-laptop) {
@@ -88,7 +93,9 @@ a {
         padding-left: $spacing-unit / 2;
     }
 	
+	
 	//background-color: #DDD;
+	min-height: calc(100vh - #{$spacing-unit} - 5px - #{$footer-height});
 }
 
 /**

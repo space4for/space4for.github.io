@@ -4,8 +4,9 @@ title : Project
 ---
 
 <div class="home">
-	{% for project in site.data.projects.projects %}
-		{{project.type}}
+	<div class="project-list">
+		{% for project in site.data.projects.projects %}
 		{{project.title}}<br>
-	{% endfor %}
+		{% endfor %}
+	</div>	
 </div>
