@@ -7,10 +7,10 @@
 		</svg>
 	</a>
 	<div class="trigger">
-		{% for my_page in site.pages %}
-			{% if my_page.title %}
-				<a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a><br>
-			{% endif %}
-		{% endfor %}
+		<a class="page-link" href="{{ 'about.html' | prepend: site.baseurl }}">About</a><br>
+		<a class="page-link" href="{{ 'profile.html' | prepend: site.baseurl }}">Profile</a><br>
+		<a class="page-link" href="{{ 'people.html' | prepend: site.baseurl }}">People</a><br>
+		<a class="page-link" href="{{ 'project.html' | prepend: site.baseurl }}">Project</a><br>
+		<a class="page-link" href="{{ 'contact.html' | prepend: site.baseurl }}">Contact</a><br>
 	</div>
 </nav>

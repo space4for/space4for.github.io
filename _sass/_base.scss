@@ -13,6 +13,7 @@ dl, dd, ol, ul, figure {
  */
 html, body {
 	height: 100%;
+	width: 100%;
 }
 
 body {
@@ -25,6 +26,10 @@ body {
     -o-font-feature-settings: "kern" 1;
     font-feature-settings: "kern" 1;
     font-kerning: normal;
+}
+
+article {
+	height:calc(100vh - #{$header-height} - #{$footer-height});
 }
 
 /**
@@ -69,16 +74,30 @@ a {
 
     &:hover {
         color: $text-color;
-        text-decoration: underline;
+        //text-decoration: underline;
     }
+}
+
+
+/**
+ * Page content
+ */
+.page-content {
+    padding: 0;
+	min-height: calc(100vh - #{$spacing-unit});
+	//background-color: rgba(150,150,255,0.7);
+	
+	@include media-query($on-palm) {
+		min-height: 100vh;
+		padding: 0;
+	}
 }
 
 /**
  * Wrapper
  */
 .wrapper {
-    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
-    max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
+    max-width: #{$content-width};
     margin-right: auto;
     margin-left: auto;
     padding-right: $spacing-unit;
@@ -95,7 +114,7 @@ a {
 	
 	
 	//background-color: #DDD;
-	min-height: calc(100vh - #{$spacing-unit} - 5px - #{$footer-height});
+	min-height: calc(100vh - #{$footer-height});
 }
 
 /**
