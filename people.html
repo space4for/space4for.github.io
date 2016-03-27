@@ -87,7 +87,8 @@ layout : base
 						<tr height=400px>
 						{% for member in site.data.members.members %}
 							<td>
-								<div class="image" style="background-image: url({{ member.image}})">
+								<div class="container" >
+								<img src="{{ member.image}}"/>
 								<div class="people_lable">
 									{{member.name-en}}<br>
 									{{member.title}}
