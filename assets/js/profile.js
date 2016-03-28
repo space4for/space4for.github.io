@@ -32,7 +32,7 @@ var makePopup = function(title, url){
 		}).appendTo(popup).css({
 			"top":0,
 			"text-align":"center",
-			"font-size": "0.9em"
+			"font-size": "0.7em"
 		});
 		
 		popup.appendTo($('body')).stop().fadeIn(1000);

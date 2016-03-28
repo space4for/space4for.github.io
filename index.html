@@ -2,8 +2,13 @@
 layout : logo
 ---
 
+<canvas id="logo-canvas"></canvas>
 <div class="logo">
 	<a href="{{'about.html' | prepend: site.baseurl | prepend: site.url}}">
 		<img src='{{ "/assets/images/logo.png" | prepend: site.baseurl | prepend: site.url }}'></img>
 	</a>
 </div>
+<script src="{{ '/assets/js/TweenLite.min.js' | prepend: site.baseurl | prepend: site.url }}"></script>
+<script src="{{ '/assets/js/EasePack.min.js' | prepend: site.baseurl | prepend: site.url }}"></script>
+<script src="{{ '/assets/js/rAF.js' | prepend: site.baseurl | prepend: site.url }}"></script>
+<script src="{{ '/assets/js/logo.js' | prepend: site.baseurl | prepend: site.url }}"></script>

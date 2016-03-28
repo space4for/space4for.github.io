@@ -129,6 +129,15 @@
 	//background-color: #bbb;
 }
 
+#logo-canvas {
+	position: fixed;
+	left:0;
+	top:0;
+	width:100vw;
+	height:100vh;
+	
+}
+
 .home {
 	width: 100%;
 	@include media-query($on-palm) {
@@ -289,8 +298,8 @@
 	
 	td {
 		position: relative;
-		width:76px;
-		padding-right:3px;
+		width:79px;
+		padding-right:2px;
 		overflow:hidden;
 	}
 	
@@ -306,27 +315,24 @@
 	}
 	
 	img {
+		position:absolute;
+		left:0;
+		height:100%;
 		object-fit: cover;
-		filter: url('/assets/js/filters.svg#grayscale'); /* Firefox 3.5+ */
-		filter: gray; /* IE6-9 */
-		-webkit-filter: grayscale(1);
 		transition: 0.5s;
 	}
 	
 	img:hover {
-		filter: none; /* Applies to FF + IE */
-		-webkit-filter: grayscale(0);
-		//transform:scale(1.02);
+		opacity:0;
 	}
 	
 	.people_lable {
 		position: absolute;	
 		display: table-cell; 
+		bottom:10px;
 		width:100%;
-		left:0;
-		top:350px;
 		color: white;
-		font-size:0.5em;
+		font-size:10px;
 		vertical-align: bottom;
 		z-index:10;
 	}	
