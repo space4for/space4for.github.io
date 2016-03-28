@@ -9,10 +9,11 @@
     position: relative;
 }
 
-.selected {
+.selected {	
 	font-weight: 800;
 	color: #d61f26 !important;
 }
+
 
 .site-nav {
 	position: absolute;
@@ -30,7 +31,6 @@
 	
 	.page-link:hover{
 		color: #d61f26;
-		font-weight: 800;
 		margin-left:10px;
 	}	
 	
