@@ -214,7 +214,7 @@
 	display: inline-block;
 	background-color: #EEE;
 	width:400px;
-	height:420px;
+	height:400px;
 	
 	table, tbody, tr, td {
 		border-style:none;
@@ -234,9 +234,38 @@
 		transition: 0.5s;
 	}
 	
-	td:hover {
-		background-color: #FAA;
+	._00 {background-image:url('/assets/images/profile/thumb/00.jpg');}
+	._01 {background-image:url('/assets/images/profile/thumb/01-1.jpg');}
+	._02 {background-image:url('/assets/images/profile/thumb/02-1.jpg');}
+	._03 {background-image:url('/assets/images/profile/thumb/03-1.jpg');}
+	._04 {background-image:url('/assets/images/profile/thumb/04-1.jpg');}
+	._05 {background-image:url('/assets/images/profile/thumb/05-1.jpg');}
+	._06 {background-image:url('/assets/images/profile/thumb/06-1.jpg');}
+	._07 {background-image:url('/assets/images/profile/thumb/07-1.jpg');}
+	._08 {background-image:url('/assets/images/profile/thumb/08-1.jpg');}
+	._09 {background-image:url('/assets/images/profile/thumb/09-1.jpg');}
+	._10 {background-image:url('/assets/images/profile/thumb/10-1.jpg');}
+	._11 {background-image:url('/assets/images/profile/thumb/11-1.jpg');}
+	._12 {background-image:url('/assets/images/profile/thumb/12-1.jpg');}
+	._13 {background-image:url('/assets/images/profile/thumb/13-1.jpg');}
+	._14 {background-image:url('/assets/images/profile/thumb/14-1.jpg');}
+	._15 {background-image:url('/assets/images/profile/thumb/15-1.jpg');}
+	._16 {background-image:url('/assets/images/profile/thumb/16-1.jpg');}
+	._17 {background-image:url('/assets/images/profile/thumb/17-1.jpg');}
+	._18 {background-image:url('/assets/images/profile/thumb/18-1.jpg');}
+	._19 {background-image:url('/assets/images/profile/thumb/19-1.jpg');}
+	._20 {background-image:url('/assets/images/profile/thumb/20-1.jpg');}
+	
+	td img {
+		cursor: pointer;
+		transition : 0.3s;
 	}
+	
+	td img:hover {
+		opacity:0;
+		
+	}
+	
 }
 
 .people_image {	
