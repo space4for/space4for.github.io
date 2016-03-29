@@ -44,6 +44,29 @@
 		},
 		
 		{
+			"group" : "Medical",
+			"type"	: "Medical",
+			"client" : "열린의사회",
+			"title" : "압구정 우태하 피부과",
+			"year" : 2014,
+			"location" : "Mongol, where is this",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2014_sol_2.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_2.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_3.jpg"
+				},
+{
+					"url" : "/assets/images/projects/2014_sol_4.jpg"
+				}						
+			]
+		},		
+		
+		{
 			"group" : "Office",
 			"type"	: "Medical 111111",
 			"client" : "LOWSLOW",
@@ -996,6 +1019,29 @@
 			"images" : [
 				{
 					"url" : "/assets/images/projects/2014_sol_1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_2.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014_sol_3.jpg"
+				},
+{
+					"url" : "/assets/images/projects/2014_sol_4.jpg"
+				}						
+			]
+		},
+		
+		{
+			"group" : "Medical",
+			"type"	: "Medical",
+			"client" : "열린의사회",
+			"title" : "강북삼성병원 치과",
+			"year" : 2014,
+			"location" : " ",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2014_sol_2.jpg"
 				},
 				{
 					"url" : "/assets/images/projects/2014_sol_2.jpg"

@@ -1,6 +1,27 @@
 ---
 layout : base
 ---
+<script src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
+<script>
+	function initMap() {
+		var space4 = {lat: 37.551765, lng: 126.919012};
+		map = new google.maps.Map(document.getElementById('map'), {
+			center: space4,
+			zoom: 15,
+		});	
+	
+		var marker = new google.maps.Marker({
+			position: space4,
+			animation: google.maps.Animation.DROP,
+			map: map,
+			title: 'SPACE4'
+		});
+	}
+	
+	$(document).ready(function(){
+		initMap();
+	});
+</script>
 
 <nav class="site-nav">	
 	<a href="#" class="menu-icon">
@@ -33,16 +54,15 @@ layout : base
 	<div class="outer">
 		<div class="inner">
 			<div class="centered">
-				<a href="http://map.naver.com/local/siteview.nhn?code=18785693" target="_blank">
-				<img src='{{ "/assets/images/map.PNG" | prepend: site.baseurl | prepend: site.url }}'></img>
-				</a>
-				<br>
-				<ul class="contact-list">
-					<li>Address : {{ site.address }}</li>
-					<li>E-Mail : {{ site.email }}</li>					
-					<li>Tel : {{ site.phone_number }}</li>
-					<li>Fax : {{ site.fax_number }}</li>
-				</ul>
+				<div class="contact-info">
+					<ul class="contact-list">
+						<li><b>A</b> &nbsp;{{ site.address }}</li>
+						<li><b>E</b> &nbsp;{{ site.email }}</li>					
+						<li><b>T</b> &nbsp;{{ site.phone_number }}</li>
+						<li><b>F</b> &nbsp;{{ site.fax_number }}</li>
+					</ul>
+				</div>
+				<div id="map"></div>				
 			</div>
 		</div>
 	</div>

@@ -534,17 +534,34 @@
 	scrollbar-dark-shadow-color: #FFF;
 }
 
-.contact-list {
-	text-align:left;
-	font-size: 0.8em;
-	list-style: none;
-	margin-left:120px;
+
+.contact-info {
+	display: inline-block;
+	float:left;
+	font-size:0.9em;
+	width: 330px;
+	height: 400px;
 	
-	@include media-query($on-palm) {
-		margin-left:auto;
+	.contact-list {
+		width: 100%;
+		text-align:left;
+		font-size: 0.8em;
+		list-style: none;
+		line-height: 23px;
+		
+		@include media-query($on-palm) {
+			margin-left:auto;
+		}	
 	}
-	
 }
+
+#map {
+	display: inline-block;
+	width: 400px;
+	height: 400px;
+}
+
+
 
 /**
  * Site footer
