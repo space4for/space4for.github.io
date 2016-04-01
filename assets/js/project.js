@@ -34,6 +34,15 @@ var parseList = function(data){
 	projectList = [medical, office, leisure, residence, education, commercial];
 }
 
+var preload = function(){
+	for (var i in projectList){
+		var list = projectList[i];
+		for (var j in list){
+				(new Image()).src = list[j].thumbnail;
+		}
+	}
+}
+
 var makeButtons = function(place){
 	for (var i in projectList){
 		var list = projectList[i];
@@ -58,11 +67,11 @@ var makeButtons = function(place){
 			var img_list = JSON
 			var col2 = $("<div/>", {
 				"class":"title",
-				text: list[j].title,
+				text: list[j].list_title,
+				"data-thumb":list[j].thumbnail,
 				"data-image":JSON.stringify(list[j].images),
 				"data-type":list[j].type,
-				"data-client":list[j].client,
-				"data-title":list[j].title,
+				"data-title":list[j].image_title,
 				"data-year":list[j].year,
 				"data-location":list[j].location,
 			}).appendTo(row);
@@ -83,22 +92,24 @@ var makeButtons = function(place){
 			)
 		);
 	}
+	
+	preload();
 }
 
 var onHover = function(){	
-	var images = $(this).data('image');
+	var imageURL = $(this).data('thumb');
 	
 	$(".thumbshow").css({"top": $(this).offset().top});
 	$(".thumbshow").css({"left": $(this).offset().left - 230});
 	
 	if($(".thumb").length){
-		$(".thumb").attr("src", images[0].url);	
+		$(".thumb").attr("src", imageURL);	
 		$(".thumb").stop().fadeToggle(500, "linear");
 	}
 	else{	
 		var img = $("<img/>", {
 			"class": "thumb",
-			src:images[0].url			
+			src:imageURL			
 		});		
 		$(".thumbshow").html(img);
 	}	
@@ -150,17 +161,17 @@ var showSlider = function(){
 	
 	
 	var type = $(this).data('type');
-	var client = $(this).data('client');
+	var title = $(this).data('title');
 	var location = $(this).data('location');
 	var year = $(this).data('year');	
 	
 	$(".description").fadeOut(200, function(){
 		$(".description").html( 
-			"<div class='desc'><b>About This Project</b><br>" + 
-			"Type:" + type + "<br>" +
-			"Client:" + client + "<br>" +
-			"Location:" + location + "<br>" +
-			"Project Year:" + year + "</div>"		
+			"<div class='desc'>" + 
+			type + "<br>" +
+			title + "<br>" +
+			location + "<br>" +
+			year + "</div>"		
 		);
 	}
 	).fadeIn();

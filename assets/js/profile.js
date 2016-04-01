@@ -65,14 +65,12 @@ var makePopup = function(title, url){
 	});
 }
 
-$(document).ready(function(){
-	console.log($(".btn").length);
-	
-	$.each($(".btn"), function(index, value){
-		console.log(index + " " + value.title);
+$(document).ready(function(){	
+	$.each($(".btn"), function(index, value){		
+		(new Image()).src = "/assets/images/profile/" + $(this).data("url") + ".jpg";
 		
 		$(this).on("click", function(){
-			makePopup($(this).attr("title"), $(this).data("url"))
+			makePopup($(this).data("title"), $(this).data("url"))
 		});
 	});
 });
