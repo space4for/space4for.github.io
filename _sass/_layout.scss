@@ -152,6 +152,9 @@
 	margin-top:50px;
 }
 
+.logo-about{
+	width: 106px;
+}
 .profile {
 	display: inline-block;
 	float:left;
@@ -594,16 +597,7 @@
 		margin-right: 0px;
 		font-weight: 200;	
 		height: 18px;
-		width: 184px;
-	}
-	
-	.logo-footer2 {
-		display: block;
-		float: right;
-		width: 184px;
-		letter-spacing:0.26px;
-		font-weight: 200;
-		font-size: 0.8em;
+		width: 202px;
 	}
 	
 	@include media-query($on-palm) {
