@@ -20,11 +20,11 @@ var makePopup = function(title, url){
 		
 		var image = $("<div/>").appendTo(popup).css({
 			"background-image" : "url(/assets/images/profile/" + url + ".jpg)",
-			"background-position": "center",
-			"background-size": "contain",
+			"background-position": "50% 70%",
+			"background-size": "cover",
 			"background-repeat": "no-repeat",
 			"width":"400px",
-			"height":"350px",
+			"height":"380px",
 		});
 		
 		var desc = $("<div/>", {
@@ -32,6 +32,7 @@ var makePopup = function(title, url){
 		}).appendTo(popup).css({
 			"top":0,
 			"text-align":"center",
+			"line-height" : "25px",
 			"font-size": "0.7em"
 		});
 		
