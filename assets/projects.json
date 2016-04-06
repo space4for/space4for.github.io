@@ -61,6 +61,24 @@
 					"url" : "/assets/images/projects/jeju_university_3.jpg"
 				}					
 			]
-		}			
+		},
+
+		{
+			"group" : "Commercial",
+			"type"	: "건축&인테리어 설계",
+			"list_title" : "양평동 근린생활시설",
+			"image_title" : "양평동 근린생활시설",
+			"year" : 2015,
+			"location" : "",
+			"thumbnail" : "/assets/images/projects/2016.06.01.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2016.06.01.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2016.06.02.jpg"
+				}	
+			]
+		}		
 	]
 }

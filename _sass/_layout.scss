@@ -385,10 +385,10 @@
 	}
 	
 	table {
-		margin-left:330px;
+		margin-left:250px;
 		//margin-left:40%;
 		margin-right:20px;
-		width: calc(100% - 350px);
+		width: calc(100% - 270px);
 		text-align: center;
 	}
 	
@@ -403,15 +403,12 @@
 	
 	img {
 		object-fit: cover;
-		filter: url('/assets/js/filters.svg#grayscale'); /* Firefox 3.5+ */
-		filter: gray; /* IE6-9 */
-		-webkit-filter: grayscale(1);	
 	}
 	
 	.swiper-container {
 		visibility: hidden;
-		width: 520px;
-		height: 280px;
+		width: 600px;
+		height: 300px;
 	}
 	
 	.swiper-slide {

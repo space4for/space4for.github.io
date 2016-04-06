@@ -170,8 +170,8 @@ var showSlider = function(){
 			"<div class='desc'>" + 
 			type + "<br>" +
 			title + "<br>" +
-			location + "<br>" +
-			year + "</div>"		
+			year + "<br>"	+
+			location + "</div>"
 		);
 	}
 	).fadeIn();
