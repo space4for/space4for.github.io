@@ -167,14 +167,6 @@
 	
 }
 
-.home {
-	width: 100%;
-	@include media-query($on-palm) {
-		width: 100%;
-	}
-	text-align:center;
-}
-
 #container{	
 	display:inline-block;
 	text-align:left;
@@ -186,8 +178,7 @@
 }
 
 .profile {
-	display: inline-block;
-	float:left;
+	display: inline-block;	
 	font-size:0.9em;
 	width: 330px;
 	height: 400px;
@@ -567,28 +558,40 @@
 
 .contact-info {
 	display: inline-block;
-	float:left;
-	font-size:0.9em;
+	position: absolute;
 	width: 330px;
-	height: 400px;
+	height: 400px;	
 	
-	.contact-list {
-		width: 100%;
-		text-align:left;
-		font-size: 0.8em;
-		list-style: none;
-		line-height: 23px;
-		
-		@include media-query($on-palm) {
-			margin-left:auto;
-		}	
-	}
+	@include media-query($on-palm) {
+		position: relative;
+		height:30%;
+	}	
 }
 
-#map {
+.contact-list {
+	width: 100%;
+	text-align:left;
+	font-size: 0.8em;
+	list-style: none;
+	line-height: 23px;
+	
+	@include media-query($on-palm) {
+		margin-left:auto;
+	}	
+}
+
+.map_wrapper {
+	margin-left:330px;
 	display: inline-block;
+	
+	@include media-query($on-palm) {
+		margin-left:auto;
+	}	
+}
+
+#map {	
 	width: 400px;
-	height: 400px;
+	height: 400px;	
 }
 
 
@@ -605,7 +608,7 @@
 	color: #b3b3b3;
 	z-index: -1;
 	
-	max-width: #{$content-width};
+	width: #{$content-width};
 	padding-left: $spacing-unit / 2;
 	padding-right: $spacing-unit / 2;
 	
@@ -630,9 +633,10 @@
 	@include media-query($on-palm) {
 		padding-right: $spacing-unit / 4;
         padding-left: $spacing-unit / 4;	
+		width: 100%;
 		
 		.logo-footer, .logo-footer2 {
-			float: none;
+			float: right;
 		}	
 		.copyright {
 			float: none;
@@ -657,10 +661,24 @@
 .centered {
 	position: relative;
 	display:inline-block;
+	width: 1280px;
 	height: 500px;
 	@extend %clearfix;
 	
 	@include media-query($on-palm) {
 		font-size: 0.9em;
+		width: 100%;
+	}
+}
+
+.centered_about {
+	position: relative;
+	display:inline-block;
+	width: 1280px;
+	@extend %clearfix;
+	
+	@include media-query($on-palm) {
+		font-size: 0.9em;
+		width: 100%;
 	}
 }
