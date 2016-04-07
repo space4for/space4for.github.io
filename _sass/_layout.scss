@@ -571,7 +571,7 @@
 .contact-list {
 	width: 100%;
 	text-align:left;
-	font-size: 0.8em;
+	font-size: 0.7em;
 	list-style: none;
 	line-height: 23px;
 	
@@ -609,8 +609,6 @@
 	z-index: -1;
 	
 	width: #{$content-width};
-	padding-left: $spacing-unit / 2;
-	padding-right: $spacing-unit / 2;
 	
 	.row {
 		height: 20px;
