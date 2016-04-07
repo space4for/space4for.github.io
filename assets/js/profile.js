@@ -1,6 +1,6 @@
 var popup = null;
 
-var makePopup = function(title, url){
+var makePopup = function(title, url, year, company){
 	var pos_top = ($(".profile_image").offset().top);
 	var pos_left = ($(".profile_image").offset().left);
 	
@@ -30,16 +30,41 @@ var makePopup = function(title, url){
 		var desc = $("<div/>", {
 		text: title
 		}).appendTo(popup).css({
+			"display":"inline-block",
+			"float":"left",
 			"top":0,
 			"text-align":"center",
-			"line-height" : "25px",
+			"line-height" : "20px",
 			"font-size": "0.7em"
 		});
 		
-		popup.appendTo($('body')).stop().fadeIn(1000);
+		var comp = $("<div/>", {
+		text: company
+		}).appendTo(popup).css({
+			"display":"inline-block",
+			"float":"right",
+			"top":0,
+			"margin-left":"7px",
+			"text-align":"center",
+			"line-height" : "20px",
+			"font-size": "0.7em"
+		});
+		
+		var year = $("<div/>", {
+		text: year
+		}).appendTo(popup).css({
+			"display":"inline-block",
+			"float":"right",
+			"top":0,
+			"text-align":"center",
+			"line-height" : "20px",
+			"font-size": "0.7em"
+		});		
+		
+		popup.appendTo($('body')).stop().fadeIn(500);
 		
 		popup.on("click", function(){
-			$(this).fadeOut(1000);
+			$(this).fadeOut(500);
 		});	
 	}
 	else{
@@ -71,7 +96,7 @@ $(document).ready(function(){
 		(new Image()).src = "/assets/images/profile/" + $(this).data("url") + ".jpg";
 		
 		$(this).on("click", function(){
-			makePopup($(this).data("title"), $(this).data("url"))
+			makePopup($(this).data("title"), $(this).data("url"), $(this).data("year"), $(this).data("company"))
 		});
 	});
 });

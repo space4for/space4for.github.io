@@ -54,6 +54,35 @@
 		letter-spacing:3.25px;
 	}
 	
+	.social_container {
+		position: relative;
+		top: 48px;
+		width: 100%;
+		text-align: center;
+	}
+	
+	.menu_facebook {
+		display: inline-block;
+		width: 17px;
+		height: 17px;
+		background-image:url('/assets/images/icon_facebook.png');
+	}
+	
+	.menu_instagram {
+		display: inline-block;
+		width: 17px;
+		height: 17px;
+		margin: 0 10px;
+		background-image:url('/assets/images/icon_instagram.png');
+	}
+	
+	.menu_pinterest {
+		display: inline-block;
+		width: 17px;
+		height: 17px;
+		background-image:url('/assets/images/icon_pinterest.png');
+	}
+	
 	@include media-query($on-palm) {
         position: absolute;
         top: 9px;
