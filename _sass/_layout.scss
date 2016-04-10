@@ -326,8 +326,13 @@ body.nav-open .site-nav .menu-icon span:after { top: -1px; -webkit-transform: ro
 		margin-right: auto;
 		
 		.pf-table {
-			margin-left: auto;
-			margin-right: auto;
+			margin-left: calc(50% - 200px);
+		}
+	}
+	
+	@include media-query($on-small) {
+		.pf-table {
+			margin-left: 0px;
 		}
 	}
 }
@@ -342,7 +347,11 @@ body.nav-open .site-nav .menu-icon span:after { top: -1px; -webkit-transform: ro
 	@include media-query($on-palm) {
 		margin-top: -130px;
 		position: absolute;
-		margin-left: calc(50vw - 200px);
+		margin-left: calc(50% - 200px);
+	}
+	
+	@include media-query($on-small) {
+		margin-left: 0px;
 	}
 }
 
