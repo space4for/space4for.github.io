@@ -1,7 +1,7 @@
 $(document).ready(function(){	
 	$("#btn_ljw").hover(function(){
 		$("#ljh").toggleClass('hidden visible');
-		$(".people_bwimage:eq(0)").toggleClass('hidden visible');
+		$(".people_bwimage:eq(0)").toggleClass('hidden', 'visible');
 		$("#btn_ljw").toggleClass('rotate90');
 	}, function(){
 		$("#ljh").toggleClass('hidden visible');

@@ -320,14 +320,14 @@ body.nav-open .site-nav .menu-icon span:after { top: -1px; -webkit-transform: ro
 	}
 	
 	@include media-query($on-palm) {
-		display: block;	
 		float:none;
 		width: 100%;
 		margin-left: auto;
 		margin-right: auto;
 		
 		.pf-table {
-			margin-right:0px;
+			margin-left: auto;
+			margin-right: auto;
 		}
 	}
 }
@@ -335,9 +335,15 @@ body.nav-open .site-nav .menu-icon span:after { top: -1px; -webkit-transform: ro
 /**
  *	People
  */
-#ljh, #chj {
+#ljh, #chj {	
 	position: absolute;
-	margin-top: -200px;
+	margin-top: 0px;
+	
+	@include media-query($on-palm) {
+		margin-top: -130px;
+		position: absolute;
+		margin-left: calc(50vw - 200px);
+	}
 }
 
 .visible
@@ -361,7 +367,7 @@ body.nav-open .site-nav .menu-icon span:after { top: -1px; -webkit-transform: ro
 	height:420px;
 	
 	@include media-query($on-palm) {
-		margin-bottom: 230px;
+		margin-bottom: 150px;
 		float:none;
 	}
 	
