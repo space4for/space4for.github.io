@@ -18,16 +18,15 @@ $spacing-unit:     30px;
 
 $text-color:       #868686;
 $text-bold-color:  #414042;
+$text-foot-color:  #b3b3b3;
 
 $background-color: #ffffff;
-$brand-color:      #2a7ae2;
-
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
+$dev-color: #dfdfaf;
+$brand-color:      #d61f26;
 
 $content-width:    1280px;
-$on-palm:          600px;
+$content-height:    100vh;
+$on-palm:          900px;
 $on-laptop:        1280px;
 
 // Use media queries like this:

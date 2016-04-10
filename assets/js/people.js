@@ -1,5 +1,3 @@
-var selectedID = 0;
-
 $(document).ready(function(){	
 	$("#btn_ljw").hover(function(){
 		$("#ljh").toggleClass('hidden visible');
