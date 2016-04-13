@@ -74,7 +74,7 @@ body.nav-open .site-nav .menu-icon span { background: transparent; }
 body.nav-open .site-nav .menu-icon span:before { top: 1px; -webkit-transform: rotate(45deg); -moz-transform: rotate(45deg); -ms-transform: rotate(45deg); -o-transform: rotate(45deg); transform: rotate(45deg); }
 body.nav-open .site-nav .menu-icon span:after { top: -1px; -webkit-transform: rotate(-45deg); -moz-transform: rotate(-45deg); -ms-transform: rotate(-45deg); -o-transform: rotate(-45deg); transform: rotate(-45deg); }
 
-.site-nav .menu-icon { position: absolute; z-index: 6; top: 0; left: 5px; display: inline-block; width: 30px; height: 30px; padding: 10px; -webkit-transition: all 300ms ease-in-out; -moz-transition: all 300ms ease-in-out; -ms-transition: all 300ms ease-in-out; -o-transition: all 300ms ease-in-out; transition: all 300ms ease-in-out; }
+.site-nav .menu-icon { position: absolute; z-index: 6; top: 0; display: inline-block; width: 30px; height: 30px; padding: 10px 0; -webkit-transition: all 300ms ease-in-out; -moz-transition: all 300ms ease-in-out; -ms-transition: all 300ms ease-in-out; -o-transition: all 300ms ease-in-out; transition: all 300ms ease-in-out; }
 .site-nav .menu-icon span, .site-nav .menu-icon span:before, .site-nav .menu-icon span:after { position: relative; display: block; width: 22px; height: 2px; background: #3e3e3e; content: ''; -webkit-transition: all 300ms ease; -moz-transition: all 300ms ease; -ms-transition: all 300ms ease; -o-transition: all 300ms ease; transition: all 300ms ease; }
 .site-nav .menu-icon span { top: 9px; left: 4px; margin: 5px 0; }
 .site-nav .menu-icon span:before { top: -8px; }

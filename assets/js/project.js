@@ -119,9 +119,7 @@ var mySwiper = null;
 var showSlider = function(){
 	$(".title").removeClass('selected');
 	$(this).toggleClass('selected');
-	console.log("show slider" + $(this).data('image')[0].url);
-	
-	
+
 	if(mySwiper == null){		
 		
 		mySwiper = new Swiper('.swiper-container', {
