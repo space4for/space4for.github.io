@@ -175,6 +175,12 @@ var showSlider = function(){
 	).fadeIn();
 }
 
+var triggerFirst = function(){
+	if($('body').width() < 900){		
+		$('.title').eq(0).trigger('click');
+	}		
+}
+
 $(document).ready(function(){
 	$.ajax(
 		{
@@ -182,6 +188,7 @@ $(document).ready(function(){
 			success: function(result){
 				parseList(result);
 				makeButtons('.project-list-table');
+				triggerFirst();
 			},
 			error: function(xhr, status, errormsg){
 				console.log(errormsg);

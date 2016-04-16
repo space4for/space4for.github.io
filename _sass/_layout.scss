@@ -161,9 +161,12 @@ body.nav-open .site-nav .menu-icon span:after { top: -1px; -webkit-transform: ro
         left: 10px;
 		
 		.menu-icon {
+			position: fixed;
 			display: block;
-			float: left;
+			background: white;
+			width: 100%;
 		}
+		
 		.trigger {
             clear: both;
             display: none;
@@ -561,6 +564,11 @@ body.nav-open .site-nav .menu-icon span:after { top: -1px; -webkit-transform: ro
 			width: 100%;
 			margin-left:auto;
 			margin-right:auto;
+			
+			border-style:none;
+			border: 0px;
+			padding:0;
+			border-collapse: collapse;
 		}
 		
 		.thumbshow{
@@ -568,12 +576,12 @@ body.nav-open .site-nav .menu-icon span:after { top: -1px; -webkit-transform: ro
 		}
 		
 		.swiper-container {
-			width: 90vw;
-			height: 30vh;
+			width: calc(100vw - 30px);
+			height: calc((100vw - 30px) / 2);
 		}
 		
 		.swiper-pagination {
-			width: 90vw;
+			width: calc(100vw - 30px);
 		}
 		
 		.swiper-button-prev, .swiper-button-next{
@@ -596,7 +604,8 @@ body.nav-open .site-nav .menu-icon span:after { top: -1px; -webkit-transform: ro
 	height:590px;
 	
 	@include media-query($on-palm) {
-		width: 100%;
+		float: none;
+		width: calc(100vw - 30px);
 		height:37vh;
 	}
 }
