@@ -646,6 +646,10 @@ body.nav-open .site-nav .menu-icon span:after { top: -1px; -webkit-transform: ro
 	}
 }
 
+.selected{
+	color: #d61f26;
+}
+
 .project-list-table::-webkit-scrollbar{
 	width: 11px;
 }
