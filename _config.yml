@@ -15,8 +15,8 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 facebook_username: SPACE4-275414592487427
-instagram_username: SPACE4
-pinterest_username: SPACE4
+instagram_username: spacefor
+pinterest_username: SPACE4FOR
 address: 서울특별시 마포구 잔다리로 39, 로뎀빌딩 704호
 phone_number : 02·501·9137
 fax_number : 02·501·9138
