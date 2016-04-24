@@ -611,9 +611,13 @@ body.nav-open .site-nav .menu-icon span:after { top: -1px; -webkit-transform: ro
 }
 
 .project-list-table {
-	height:100%;
+	height:590px;
 	overflow-y: scroll;
 	overflow-x: hidden;	
+	
+	@include media-query($on-palm) {
+		height:37vh;
+	}
 	
 	.row {
 		display: table-row;

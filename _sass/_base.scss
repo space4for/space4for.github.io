@@ -119,6 +119,8 @@ a {
  */
 article {
 	height:calc(100vh - #{$header-height} - #{$footer-height});
+	min-height: 700px;
+	background-color: white;
 	
 	@include media-query($on-palm) {
 		min-height: calc(100vh - #{$header-height} - #{$footer-height} * 2);
