@@ -423,10 +423,10 @@
 		{
 			"group" : "Office",
 			"type"	: "인테리어 설계",
-			"list_title" : "산림 비전 센터 다목적 식당",
-			"image_title" : "산림 비전 센터 다목적 식당",
+			"list_title" : "산림비전센터 다목적 식당",
+			"image_title" : "산림비전센터 다목적 식당",
 			"year" : 2013,
-			"location" : "대전광역시 서구",
+			"location" : "서울특별시 영등포구",
 			"thumbnail" : "/assets/images/projects/2013.03.00.jpg",
 			"images" : [
 				{
