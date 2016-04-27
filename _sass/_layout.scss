@@ -208,6 +208,7 @@ body.nav-open .site-nav .menu-icon span:after { top: -1px; -webkit-transform: ro
  * About
  **/
 .centered_about {
+	word-break: keep-all;
 	@include media-query($on-palm) {
 		margin-top: 25vh;
 		font-size: 0.8em;
@@ -523,8 +524,8 @@ body.nav-open .site-nav .menu-icon span:after { top: -1px; -webkit-transform: ro
 	
 	.swiper-button-prev, .swiper-button-next{
 		visibility: hidden;
-		width:8px;
-		height:11px;			
+		width:23px;
+		height:300px;			
 		-webkit-background-size: 8px 11px;
 		-moz-background-size: 8px 11px;
 		-ms-background-size: 8px 11px;
