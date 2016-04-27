@@ -93,6 +93,8 @@ var makeButtons = function(place){
 		);
 	}
 	
+	$(place)
+	
 	preload();
 }
 
@@ -166,7 +168,7 @@ var showSlider = function(){
 	$(".description").fadeOut(200, function(){
 		$(".description").html( 
 			"<div class='desc'>" + 
-			"<b>" + title + "</b><br>" +
+			//"<b>" + title + "</b><br>" +
 			type + "<br>" +
 			year + "<br>"	+
 			location + "</div>"

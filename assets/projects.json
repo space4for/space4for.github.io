@@ -30,8 +30,8 @@
 		{
 			"group" : "Medical",
 			"type"	: "인테리어 설계 제안",
-			"list_title" : "몽골 자이송 산후조리원",
-			"image_title" : "몽골 자이송 산후조리원",
+			"list_title" : "몽골 자이승 산후조리원",
+			"image_title" : "몽골 자이승 산후조리원",
 			"year" : 2014,
 			"location" : "몽골 울란바토르",
 			"thumbnail" : "/assets/images/projects/2014.07.00.jpg",
@@ -782,27 +782,6 @@
 				},
 				{
 					"url" : "/assets/images/projects/2009.17.05.jpg"
-				}
-			]
-		},
-
-		{
-			"group" : "Residence",
-			"type"	: "인테리어 설계 제안",
-			"list_title" : "논현동 R 빌라",
-			"image_title" : "논현동 R 빌라",
-			"year" : 2006,
-			"location" : "서울특별시 강남구",
-			"thumbnail" : "/assets/images/projects/2009.18.00.jpg",
-			"images" : [
-				{
-					"url" : "/assets/images/projects/2009.18.01.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2009.18.02.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2009.18.03.jpg"
 				}
 			]
 		},
