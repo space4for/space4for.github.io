@@ -37,10 +37,13 @@
 			"thumbnail" : "/assets/images/projects/2014.07.00.jpg",
 			"images" : [
 				{
-					"url" : "/assets/images/projects/2014.07.01.jpg"
+					"url" : "/assets/images/projects/2014.07.07.jpg"
 				},
 				{
 					"url" : "/assets/images/projects/2014.07.03.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014.07.01.jpg"
 				},
 				{
 					"url" : "/assets/images/projects/2014.07.04.jpg"
@@ -50,10 +53,7 @@
 				},
 				{
 					"url" : "/assets/images/projects/2014.07.06.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2014.07.07.jpg"
-				},
+				},				
 				{
 					"url" : "/assets/images/projects/2014.07.08.jpg"
 				}
@@ -115,19 +115,19 @@
 			"thumbnail" : "/assets/images/projects/2009.03.00.jpg",
 			"images" : [
 				{
-					"url" : "/assets/images/projects/2009.03.01.jpg"
+					"url" : "/assets/images/projects/2009.03.04.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2009.03.05.jpg"
 				},
 				{
 					"url" : "/assets/images/projects/2009.03.02.jpg"
 				},
 				{
+					"url" : "/assets/images/projects/2009.03.01.jpg"
+				},
+				{
 					"url" : "/assets/images/projects/2009.03.03.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2009.03.04.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2009.03.05.jpg"
 				}
 			]
 		},
@@ -145,13 +145,13 @@
 					"url" : "/assets/images/projects/2009.04.01.jpg"
 				},
 				{
-					"url" : "/assets/images/projects/2009.04.02.jpg"
-				},
-				{
 					"url" : "/assets/images/projects/2009.04.03.jpg"
 				},
 				{
 					"url" : "/assets/images/projects/2009.04.04.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2009.04.02.jpg"
 				}
 			]
 		},
@@ -331,13 +331,13 @@
 			"thumbnail" : "/assets/images/projects/2010.01.00.jpg",
 			"images" : [
 				{
+					"url" : "/assets/images/projects/2010.01.03.jpg"
+				},
+				{
 					"url" : "/assets/images/projects/2010.01.01.jpg"
 				},
 				{
 					"url" : "/assets/images/projects/2010.01.02.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2010.01.03.jpg"
 				},
 				{
 					"url" : "/assets/images/projects/2010.01.04.jpg"
@@ -382,13 +382,13 @@
 			"thumbnail" : "/assets/images/projects/2011.02.00.jpg",
 			"images" : [
 				{
+					"url" : "/assets/images/projects/2011.02.03.jpg"
+				},
+				{
 					"url" : "/assets/images/projects/2011.02.01.jpg"
 				},
 				{
 					"url" : "/assets/images/projects/2011.02.02.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2011.02.03.jpg"
 				}
 			]
 		},
@@ -409,10 +409,10 @@
 					"url" : "/assets/images/projects/2014.03.02.jpg"
 				},
 				{
-					"url" : "/assets/images/projects/2014.03.03.jpg"
+					"url" : "/assets/images/projects/2014.03.04.jpg"
 				},
 				{
-					"url" : "/assets/images/projects/2014.03.04.jpg"
+					"url" : "/assets/images/projects/2014.03.03.jpg"
 				},
 				{
 					"url" : "/assets/images/projects/2014.03.05.jpg"
@@ -476,18 +476,6 @@
 				},
 				{
 					"url" : "/assets/images/projects/2014.06.04.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2014.06.05.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2014.06.06.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2014.06.07.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2014.06.08.jpg"
 				}
 			]
 		},
@@ -505,16 +493,16 @@
 					"url" : "/assets/images/projects/2009.07.01.jpg"
 				},
 				{
-					"url" : "/assets/images/projects/2009.07.02.jpg"
+					"url" : "/assets/images/projects/2009.07.03.jpg"
 				},
 				{
-					"url" : "/assets/images/projects/2009.07.03.jpg"
+					"url" : "/assets/images/projects/2009.07.05.jpg"
 				},
 				{
 					"url" : "/assets/images/projects/2009.07.04.jpg"
 				},
 				{
-					"url" : "/assets/images/projects/2009.07.05.jpg"
+					"url" : "/assets/images/projects/2009.07.02.jpg"
 				}
 			]
 		},
@@ -580,10 +568,10 @@
 					"url" : "/assets/images/projects/2014.04.02.jpg"
 				},
 				{
-					"url" : "/assets/images/projects/2014.04.03.jpg"
+					"url" : "/assets/images/projects/2014.04.04.jpg"
 				},
 				{
-					"url" : "/assets/images/projects/2014.04.04.jpg"
+					"url" : "/assets/images/projects/2014.04.03.jpg"
 				}
 			]
 		},
@@ -604,10 +592,10 @@
 					"url" : "/assets/images/projects/2014.05.02.jpg"
 				},
 				{
-					"url" : "/assets/images/projects/2014.05.03.jpg"
+					"url" : "/assets/images/projects/2014.05.04.jpg"
 				},
 				{
-					"url" : "/assets/images/projects/2014.05.04.jpg"
+					"url" : "/assets/images/projects/2014.05.03.jpg"
 				}
 			]
 		},
@@ -635,9 +623,6 @@
 				},
 				{
 					"url" : "/assets/images/projects/2015.02.05.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2015.02.06.jpg"
 				}
 			]
 		},
@@ -666,17 +651,14 @@
 		{
 			"group" : "Leisure",
 			"type"	: "인테리어 설계",
-			"list_title" : "경주 구정헌",
-			"image_title" : "경주 구정헌",
+			"list_title" : "구정헌",
+			"image_title" : "구정헌",
 			"year" : 2013,
 			"location" : "경상북도 경주시",
 			"thumbnail" : "/assets/images/projects/2013.04.00.jpg",
 			"images" : [
 				{
 					"url" : "/assets/images/projects/2013.04.01.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2013.04.02.jpg"
 				},
 				{
 					"url" : "/assets/images/projects/2013.04.03.jpg"
@@ -686,9 +668,6 @@
 				},
 				{
 					"url" : "/assets/images/projects/2013.04.05.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2013.04.06.jpg"
 				}
 			]
 		},
@@ -716,7 +695,7 @@
 
 		{
 			"group" : "Residence",
-			"type"	: "인테리어 설계 제안",
+			"type"	: "UNIT 평면 제안",
 			"list_title" : "대전 문화동 주상복합",
 			"image_title" : "대전 문화동 주상복합",
 			"year" : 2009,
@@ -724,16 +703,16 @@
 			"thumbnail" : "/assets/images/projects/2009.11.00.jpg",
 			"images" : [
 				{
-					"url" : "/assets/images/projects/2009.11.01.jpg"
+					"url" : "/assets/images/projects/2009.11.02.jpg"
 				},
 				{
-					"url" : "/assets/images/projects/2009.11.02.jpg"
+					"url" : "/assets/images/projects/2009.11.04.jpg"
 				},
 				{
 					"url" : "/assets/images/projects/2009.11.03.jpg"
 				},
 				{
-					"url" : "/assets/images/projects/2009.11.04.jpg"
+					"url" : "/assets/images/projects/2009.11.01.jpg"
 				}
 			]
 		},
@@ -779,9 +758,6 @@
 				},
 				{
 					"url" : "/assets/images/projects/2009.17.04.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2009.17.05.jpg"
 				}
 			]
 		},
@@ -830,7 +806,7 @@
 
 		{
 			"group" : "Residence",
-			"type"	: "인테리어 기획 설계",
+			"type"	: "UNIT 개발 및 인테리어 기획 설계",
 			"list_title" : "서울대역 디오빌",
 			"image_title" : "서울대역 디오빌",
 			"year" : 2009,
@@ -870,8 +846,8 @@
 		{
 			"group" : "Residence",
 			"type"	: "인테리어 설계 제안",
-			"list_title" : "동양파라곤 2차 유니트",
-			"image_title" : "동양파라곤 2차 유니트",
+			"list_title" : "동양파라곤 2차 Trend up",
+			"image_title" : "동양파라곤 2차 Trend up",
 			"year" : 2010,
 			"location" : "서울특별시 강남구",
 			"thumbnail" : "/assets/images/projects/2010.03.00.jpg",
@@ -1024,9 +1000,6 @@
 					"url" : "/assets/images/projects/2010.06.01.jpg"
 				},
 				{
-					"url" : "/assets/images/projects/2010.06.02.jpg"
-				},
-				{
 					"url" : "/assets/images/projects/2010.06.03.jpg"
 				},
 				{
@@ -1045,10 +1018,10 @@
 			"thumbnail" : "/assets/images/projects/2011.04.00.jpg",
 			"images" : [
 				{
-					"url" : "/assets/images/projects/2011.04.01.jpg"
+					"url" : "/assets/images/projects/2011.04.02.jpg"
 				},
 				{
-					"url" : "/assets/images/projects/2011.04.02.jpg"
+					"url" : "/assets/images/projects/2011.04.01.jpg"
 				},
 				{
 					"url" : "/assets/images/projects/2011.04.03.jpg"
@@ -1069,10 +1042,10 @@
 					"url" : "/assets/images/projects/2012.04.01.jpg"
 				},
 				{
-					"url" : "/assets/images/projects/2012.04.02.jpg"
+					"url" : "/assets/images/projects/2012.04.03.jpg"
 				},
 				{
-					"url" : "/assets/images/projects/2012.04.03.jpg"
+					"url" : "/assets/images/projects/2012.04.02.jpg"
 				}
 			]
 		},
