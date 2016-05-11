@@ -18,4 +18,8 @@ $(document).ready(function(){
 		$(".people_bwimage:eq(1)").toggleClass('hidden visible');
 		$("#btn_chj").toggleClass('rotate90');
 	});
+	
+	$(".container").hover(function(){
+		$(this).find('img').toggleClass('hidden visible');
+	});
 });

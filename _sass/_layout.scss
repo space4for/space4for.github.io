@@ -255,7 +255,7 @@ body.nav-open .site-nav .menu-icon span:after { top: -1px; -webkit-transform: ro
 		opacity:0;		
 	}
 	
-	._00 {background-image:url('/assets/images/profile/thumb/00.jpg');}
+	._00 {background-image:url('/assets/images/profile/thumb/00.png');}
 	._01 {background-image:url('/assets/images/profile/thumb/01-1.jpg');}
 	._02 {background-image:url('/assets/images/profile/thumb/02-1.jpg');}
 	._03 {background-image:url('/assets/images/profile/thumb/03-1.jpg');}
@@ -424,10 +424,7 @@ body.nav-open .site-nav .menu-icon span:after { top: -1px; -webkit-transform: ro
 		transition: 0.5s;
 	}
 	
-	img:hover {
-		opacity:0;
-	}
-	
+
 	.people_lable {
 		position: absolute;	
 		display: table-cell; 
@@ -659,8 +656,9 @@ body.nav-open .site-nav .menu-icon span:after { top: -1px; -webkit-transform: ro
 	width: 11px;
 }
 
-.project-list-table::-webkit-scrollbar-track {
-    display: none;
+.project-list-table::-webkit-scrollbar-thumb{
+	background: #EEE;
+	border-radius: 10px;
 }
 
 .project-list-table::-webkit-scrollbar-button:start {
@@ -679,7 +677,7 @@ body.nav-open .site-nav .menu-icon span:after { top: -1px; -webkit-transform: ro
 
 .project-list-table{
 	scrollbar-arrow-color: #BBB;
-	scrollbar-face-color: #FFF;
+	scrollbar-face-color: #EEE;
 	scrollbar-base-color: #FFF;
 	scrollbar-track-color: #FFF;
 	scrollbar-3dlight-color: #C0C0C0;
