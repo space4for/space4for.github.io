@@ -431,10 +431,14 @@ body.nav-open .site-nav .menu-icon span:after { top: -1px; -webkit-transform: ro
 		bottom:10px;
 		width:100%;
 		color: white;
-		font-size:10px;
+		font-size:14px;
 		vertical-align: bottom;
 		z-index:10;
-	}	
+	}
+	
+	.people_title {
+		font-size: 11px;
+	}
 }
 
 .people_btn {
@@ -476,7 +480,7 @@ body.nav-open .site-nav .menu-icon span:after { top: -1px; -webkit-transform: ro
 	float:left;
 	font-size:0.9em;
 	width: calc(100% - 355px);
-	height:590px;	
+	//height:590px;	
 	
 	table, tr, td {
 		padding:0;
@@ -556,7 +560,7 @@ body.nav-open .site-nav .menu-icon span:after { top: -1px; -webkit-transform: ro
 		display: block;
 		float: none;
 		width: 100%;
-		height:50vh;
+		//height:50vh;
 		
 		table {
 			width: 100%;
