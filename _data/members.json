@@ -25,8 +25,8 @@
 			"name" : "김찬휘", 
 			"name-en" : "Kim,<br> Chan-Hwi",
 			"title" : "대리",
-			"image" : "assets/images/people/youjung.png",
-			"bwimage" : "assets/images/people/youjung_bw.png"
+			"image" : "assets/images/people/chanhwi.png",
+			"bwimage" : "assets/images/people/chanhwi_bw.png"
 		},
 		{
 			"name" : "원혜진", 
@@ -39,8 +39,8 @@
 			"name" : "김수연", 
 			"name-en" : "Kim,<br> Soo-Yeon",
 			"title" : "디자이너",
-			"image" : "assets/images/people/hyejin.png",
-			"bwimage" : "assets/images/people/hyejin_bw.png"
+			"image" : "assets/images/people/sooyeun.png",
+			"bwimage" : "assets/images/people/sooyeun_bw.png"
 		}
 	]
 }
