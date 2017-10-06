@@ -1206,7 +1206,7 @@
 			"list_title" : "아이린 성형외과",
 			"image_title" : "아이린 성형외과",
 			"year" : 2016,
-			"location" : "서울시 신사동",
+			"location" : "서울특별시 강남구",
 			"thumbnail" : "/assets/images/projects/2016.09.00.jpg",
 			"images" : [
 				{
@@ -1226,6 +1226,27 @@
 				},
 				{
 					"url" : "/assets/images/projects/2016.09.06.jpg"
+				}
+			]
+		},
+		
+		{
+			"group" : "Office",
+			"type"	: "인테리어 설계",
+			"list_title" : "스페이스4 오피스",
+			"image_title" : "스페이스4 오피스",
+			"year" : 2009,
+			"location" : "서울특별시 마포구",
+			"thumbnail" : "/assets/images/projects/2016.08.00.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2016.08.01.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2016.08.02.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2016.08.03.jpg"
 				}
 			]
 		}
