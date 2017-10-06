@@ -1148,7 +1148,7 @@
 		
 		{
 			"group" : "Leisure",
-			"type"	: "건축& 인테리어 설계",
+			"type"	: "인테리어 설계",
 			"list_title" : "포항 라마다 플라자 호텔",
 			"image_title" : "포항 라마다 플라자 호텔",
 			"year" : 2016,
@@ -1175,6 +1175,27 @@
 				},
 				{
 					"url" : "/assets/images/projects/2017.03.07.jpg"
+				}
+			]
+		},
+		
+		{
+			"group" : "Medical",
+			"type"	: "인테리어 설계 제안",
+			"list_title" : "몽골 메디컬 센터",
+			"image_title" : "몽골 메디컬 센터",
+			"year" : 2016,
+			"location" : "몽골 울란바토르",
+			"thumbnail" : "/assets/images/projects/2016.02.00.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2016.02.01.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2016.02.02.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2016.02.03.jpg"
 				}
 			]
 		}
