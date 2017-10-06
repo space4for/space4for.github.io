@@ -1108,6 +1108,42 @@
 					"url" : "/assets/images/projects/2016.06.03.jpg"
 				}
 			]
+		},
+		
+		{
+			"group" : "Leisure",
+			"type"	: "건축& 인테리어 설계",
+			"list_title" : "고흥 SPACE VILLAGE",
+			"image_title" : "고흥 SPACE VILLAGE",
+			"year" : 2016,
+			"location" : "전라남도 고흥",
+			"thumbnail" : "/assets/images/projects/2016.06.100.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2016.06.101.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2016.06.102.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2016.06.103.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2016.06.104.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2016.06.105.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2016.06.106.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2016.06.107.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2016.06.108.jpg"
+				}
+			]
 		}
 	]
 }
