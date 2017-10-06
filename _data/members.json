@@ -4,22 +4,22 @@
 			"name" : "이정환", 
 			"name-en" : "Lee,<br> Jung-Hwan",
 			"title" : "건축소장",
-			"image" : "assets/images/people/junghwan.png",
-			"bwimage" : "assets/images/people/junghwan_bw.png"
+			"image" : "assets/images/people/junghwan.jpg",
+			"bwimage" : "assets/images/people/junghwan_bw.jpg"
 		},
 		{
 			"name" : "최희재", 
 			"name-en" : "Choi,<br> Hee-Jae",
 			"title" : "실장",
-			"image" : "assets/images/people/heejae.png",
-			"bwimage" : "assets/images/people/heejae_bw.png"
+			"image" : "assets/images/people/heejae.jpg",
+			"bwimage" : "assets/images/people/heejae_bw.jpg"
 		},
 		{
 			"name" : "이란희", 
 			"name-en" : "Lee,<br> Ran-Hee",
 			"title" : "팀장",
-			"image" : "assets/images/people/ranhee.png",
-			"bwimage" : "assets/images/people/ranhee_bw.png"
+			"image" : "assets/images/people/ranhee.jpg",
+			"bwimage" : "assets/images/people/ranhee_bw.jpg"
 		},
 		{
 			"name" : "김찬휘", 
@@ -32,8 +32,8 @@
 			"name" : "원혜진", 
 			"name-en" : "Won,<br> Hye-Jin",
 			"title" : "디자이너",
-			"image" : "assets/images/people/hyejin.png",
-			"bwimage" : "assets/images/people/hyejin_bw.png"
+			"image" : "assets/images/people/hyejin.jpg",
+			"bwimage" : "assets/images/people/hyejin_bw.jpg"
 		},
 		{
 			"name" : "김수연", 
