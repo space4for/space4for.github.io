@@ -376,7 +376,7 @@ body.nav-open .site-nav .menu-icon span:after { top: -1px; -webkit-transform: ro
 .people_image {	
 	display: inline-block;
 	float:right;
-	max-width:450px;
+	max-width:400px;
 	height:420px;
 	
 	@include media-query($on-palm) {
