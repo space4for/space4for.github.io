@@ -1294,6 +1294,24 @@
 					"url" : "/assets/images/projects/2016.08.03.jpg"
 				}
 			]
+		},
+
+		{
+			"group" : "Residence",
+			"type"	: "인테리어 설계",
+			"list_title" : "성남 웅진건설 베어스빌",
+			"image_title" : "성남 웅진건설 베어스빌",
+			"year" : 2017,
+			"location" : "경기도 성남시",
+			"thumbnail" : "/assets/images/projects/2017.02.00.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2017.02.01.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2017.02.02.jpg"
+				}
+			]
 		}
 	]
 }
