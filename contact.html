@@ -1,28 +1,6 @@
 ---
 layout : base
 ---
-<script src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
-<script>
-	function initMap() {
-		var space4 = {lat: 37.550721, lng: 126.919020};
-		map = new google.maps.Map(document.getElementById('map'), {
-			center: space4,
-			zoom: 15,
-		});	
-	
-		var marker = new google.maps.Marker({
-			position: space4,
-			animation: google.maps.Animation.DROP,
-			map: map,
-			title: 'SPACE4'
-		});
-	}
-	
-	$(document).ready(function(){
-		initMap();
-	});
-</script>
-
 <nav class="site-nav">	
 	<a href="#" class="menu-icon">
 		<span></span>
@@ -56,7 +34,25 @@ layout : base
 		<div class="inner">
 			<div class="centered">
 				<div class="map_wrapper">
-					<div id="map"></div>
+					<div id="map">
+						<!-- * 카카오맵 - 지도퍼가기 -->
+						<!-- 1. 지도 노드 -->
+						<div id="daumRoughmapContainer1585489924801" class="root_daum_roughmap root_daum_roughmap_landing" style="width:100%"></div>
+
+						<!--
+							2. 설치 스크립트
+							* 지도 퍼가기 서비스를 2개 이상 넣을 경우, 설치 스크립트는 하나만 삽입합니다.
+						-->
+						<script charset="UTF-8" class="daum_roughmap_loader_script" src="https://ssl.daumcdn.net/dmaps/map_js_init/roughmapLoader.js"></script>
+
+						<!-- 3. 실행 스크립트 -->
+						<script charset="UTF-8">
+							new daum.roughmap.Lander({
+								"timestamp" : "1585489924801",
+								"key" : "xpcs"
+							}).render();
+						</script>
+					</div>
 				</div>
 				<div class="contact-info">
 					<ul class="contact-list">
