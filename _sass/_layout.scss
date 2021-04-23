@@ -429,12 +429,15 @@ body.nav-open .site-nav .menu-icon span:after { top: -1px; -webkit-transform: ro
 	.people_lable {
 		position: absolute;	
 		display: table-cell; 
-		bottom:10px;
+		bottom:0;
 		width:100%;
 		color: white;
 		font-size:14px;
 		vertical-align: bottom;
 		z-index:10;
+		background: linear-gradient(0deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.7) 70%, rgba(0,0,0,0.0) 100%);
+		padding-top: 20px;
+		padding-bottom: 10px;
 	}
 	
 	.people_title {
