@@ -1295,6 +1295,27 @@
 				}
 			]
 		},
+		
+		{
+			"group" : "Medical",
+			"type"	: "인테리어 설계",
+			"list_title" : "천안 연세나무 병원",
+			"image_title" : "천안 연세나무 병원",
+			"year" : 2019,
+			"location" : "충청남도 천안시",
+			"thumbnail" : "/assets/images/projects/2019.04.00.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2019.04.01.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2019.04.02.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2019.04.03.jpg"
+				}
+			]
+		},
 
 		{
 			"group" : "Residence",
