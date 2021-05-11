@@ -1295,7 +1295,112 @@
 				}
 			]
 		},
+		
+		{
+			"group" : "Commercial",
+			"type"	: "인테리어 설계",
+			"list_title" : "한일관 서울라이트",
+			"image_title" : "한일관 서울라이트",
+			"year" : 2020,
+			"location" : "서울특별시 종로구",
+			"thumbnail" : "/assets/images/projects/2020.s.00.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2020.s.01.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2020.s.02.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2020.s.03.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2020.s.04.jpg"
+				}
+			]
+		},
 
+		{
+			"group" : "Commercial",
+			"type"	: "인테리어 설계 제안",
+			"list_title" : "제주 휘트니스",
+			"image_title" : "제주 휘트니스",
+			"year" : 2020,
+			"location" : "제주특별자치도 제주시",
+			"thumbnail" : "/assets/images/projects/2020.j.00.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2020.j.01.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2020.j.02.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2020.j.03.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2020.j.04.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2020.j.05.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2020.j.06.jpg"
+				}
+			]
+		},
+
+		{
+			"group" : "Residence",
+			"type"	: "인테리어 설계 제안",
+			"list_title" : "고운동 단독주택 (현상참여)",
+			"image_title" : "고운동 단독주택",
+			"year" : 2020,
+			"location" : "세종특별자치시 고운동",
+			"thumbnail" : "/assets/images/projects/2020.g.00.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2020.g.01.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2020.g.02.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2020.g.03.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2020.g.04.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2020.g.05.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2020.g.06.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2020.g.07.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2020.g.08.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2020.g.09.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2020.g.10.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2020.g.11.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2020.g.12.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2020.g.13.jpg"
+				}
+			]
+		},
+		
 		{
 			"group" : "Residence",
 			"type"	: "인테리어 설계",
