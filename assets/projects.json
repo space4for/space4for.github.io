@@ -1050,6 +1050,27 @@
 		
 		{
 			"group" : "Education",
+			"type"	: "인테리어 설계 제안 (현상참여)",
+			"list_title" : "동강 생태체험학습장",
+			"image_title" : "동강 생태체험학습장",
+			"year" : 2011,
+			"location" : "강원도 정선군",
+			"thumbnail" : "/assets/images/projects/2011.04.00.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2011.04.02.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2011.04.01.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2011.04.03.jpg"
+				}
+			]
+		},		
+		
+		{
+			"group" : "Education",
 			"type"	: "인테리어 설계",
 			"list_title" : "신광초등학교 리노베이션",
 			"image_title" : "신광초등학교 리노베이션",
@@ -1089,27 +1110,6 @@
 				},
 				{
 					"url" : "/assets/images/projects/2010.06.04.jpg"
-				}
-			]
-		},
-		
-		{
-			"group" : "Education",
-			"type"	: "인테리어 설계 제안",
-			"list_title" : "동강 생태체험학습장 (현상참여)",
-			"image_title" : "동강 생태체험학습장",
-			"year" : 2011,
-			"location" : "강원도 정선군",
-			"thumbnail" : "/assets/images/projects/2011.04.00.jpg",
-			"images" : [
-				{
-					"url" : "/assets/images/projects/2011.04.02.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2011.04.01.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2011.04.03.jpg"
 				}
 			]
 		},
