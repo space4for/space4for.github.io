@@ -29,39 +29,6 @@
 		
 		{
 			"group" : "Medical",
-			"type"	: "인테리어 설계 제안",
-			"list_title" : "몽골 자이승 산후조리원",
-			"image_title" : "몽골 자이승 산후조리원",
-			"year" : 2014,
-			"location" : "몽골 울란바토르",
-			"thumbnail" : "/assets/images/projects/2014.07.00.jpg",
-			"images" : [
-				{
-					"url" : "/assets/images/projects/2014.07.07.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2014.07.03.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2014.07.01.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2014.07.04.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2014.07.05.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2014.07.06.jpg"
-				},				
-				{
-					"url" : "/assets/images/projects/2014.07.08.jpg"
-				}
-			]
-		},
-		
-		{
-			"group" : "Medical",
 			"type"	: "인테리어 기획설계",
 			"list_title" : "압구정 우태하 피부과",
 			"image_title" : "압구정 우태하 피부과",
@@ -105,6 +72,90 @@
 			]
 		},
 		
+		{
+			"group" : "Medical",
+			"type"	: "인테리어 설계 제안",
+			"list_title" : "몽골 자이승 산후조리원",
+			"image_title" : "몽골 자이승 산후조리원",
+			"year" : 2014,
+			"location" : "몽골 울란바토르",
+			"thumbnail" : "/assets/images/projects/2014.07.00.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2014.07.07.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014.07.03.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014.07.01.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014.07.04.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014.07.05.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014.07.06.jpg"
+				},				
+				{
+					"url" : "/assets/images/projects/2014.07.08.jpg"
+				}
+			]
+		},
+		
+		{
+			"group" : "Medical",
+			"type"	: "인테리어 설계 제안",
+			"list_title" : "몽골 메디컬 센터",
+			"image_title" : "몽골 메디컬 센터",
+			"year" : 2016,
+			"location" : "몽골 울란바토르",
+			"thumbnail" : "/assets/images/projects/2016.02.00.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2016.02.01.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2016.02.02.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2016.02.03.jpg"
+				}
+			]
+		},
+		
+		{
+			"group" : "Medical",
+			"type"	: "인테리어 설계",
+			"list_title" : "아이린 성형외과",
+			"image_title" : "아이린 성형외과",
+			"year" : 2016,
+			"location" : "서울특별시 강남구",
+			"thumbnail" : "/assets/images/projects/2016.09.00.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2016.09.01.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2016.09.02.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2016.09.03.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2016.09.04.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2016.09.05.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2016.09.06.jpg"
+				}
+			]
+		},
+				
 		{
 			"group" : "Office",
 			"type"	: "인테리어 기획설계",
@@ -1180,57 +1231,6 @@
 		},
 		
 		{
-			"group" : "Medical",
-			"type"	: "인테리어 설계 제안",
-			"list_title" : "몽골 메디컬 센터",
-			"image_title" : "몽골 메디컬 센터",
-			"year" : 2016,
-			"location" : "몽골 울란바토르",
-			"thumbnail" : "/assets/images/projects/2016.02.00.jpg",
-			"images" : [
-				{
-					"url" : "/assets/images/projects/2016.02.01.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2016.02.02.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2016.02.03.jpg"
-				}
-			]
-		},
-		
-		{
-			"group" : "Medical",
-			"type"	: "인테리어 설계",
-			"list_title" : "아이린 성형외과",
-			"image_title" : "아이린 성형외과",
-			"year" : 2016,
-			"location" : "서울특별시 강남구",
-			"thumbnail" : "/assets/images/projects/2016.09.00.jpg",
-			"images" : [
-				{
-					"url" : "/assets/images/projects/2016.09.01.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2016.09.02.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2016.09.03.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2016.09.04.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2016.09.05.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2016.09.06.jpg"
-				}
-			]
-		},
-		
-		{
 			"group" : "Office",
 			"type"	: "인테리어 설계",
 			"list_title" : "한국표준과학연구원 물리동",
@@ -1295,7 +1295,112 @@
 				}
 			]
 		},
+		
+		{
+			"group" : "Commercial",
+			"type"	: "인테리어 설계",
+			"list_title" : "한일관 서울라이트",
+			"image_title" : "한일관 서울라이트",
+			"year" : 2020,
+			"location" : "서울특별시 종로구",
+			"thumbnail" : "/assets/images/projects/2020.s.00.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2020.s.01.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2020.s.02.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2020.s.03.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2020.s.04.jpg"
+				}
+			]
+		},
 
+		{
+			"group" : "Commercial",
+			"type"	: "인테리어 설계 제안",
+			"list_title" : "제주 휘트니스",
+			"image_title" : "제주 휘트니스",
+			"year" : 2020,
+			"location" : "제주특별자치도 제주시",
+			"thumbnail" : "/assets/images/projects/2020.j.00.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2020.j.01.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2020.j.02.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2020.j.03.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2020.j.04.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2020.j.05.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2020.j.06.jpg"
+				}
+			]
+		},
+
+		{
+			"group" : "Residence",
+			"type"	: "인테리어 설계 제안",
+			"list_title" : "고운동 단독주택 (현상참여)",
+			"image_title" : "고운동 단독주택",
+			"year" : 2020,
+			"location" : "세종특별자치시 고운동",
+			"thumbnail" : "/assets/images/projects/2020.g.00.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2020.g.01.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2020.g.02.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2020.g.03.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2020.g.04.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2020.g.05.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2020.g.06.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2020.g.07.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2020.g.08.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2020.g.09.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2020.g.10.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2020.g.11.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2020.g.12.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2020.g.13.jpg"
+				}
+			]
+		},
+		
 		{
 			"group" : "Residence",
 			"type"	: "인테리어 설계",
