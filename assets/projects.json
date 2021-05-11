@@ -1117,59 +1117,53 @@
 		{
 			"group" : "Commercial",
 			"type"	: "인테리어 설계",
-			"list_title" : "청담동 포레스트힐 카페",
-			"image_title" : "청담동 포레스트힐 카페",
-			"year" : 2012,
-			"location" : "서울특별시 강남구",
-			"thumbnail" : "/assets/images/projects/2012.04.00.jpg",
+			"list_title" : "한일관 서울라이트",
+			"image_title" : "한일관 서울라이트",
+			"year" : 2020,
+			"location" : "서울특별시 종로구",
+			"thumbnail" : "/assets/images/projects/2020.s.00.jpg",
 			"images" : [
 				{
-					"url" : "/assets/images/projects/2012.04.01.jpg"
+					"url" : "/assets/images/projects/2020.s.01.jpg"
 				},
 				{
-					"url" : "/assets/images/projects/2012.04.03.jpg"
+					"url" : "/assets/images/projects/2020.s.02.jpg"
 				},
 				{
-					"url" : "/assets/images/projects/2012.04.02.jpg"
+					"url" : "/assets/images/projects/2020.s.03.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2020.s.04.jpg"
 				}
 			]
 		},
-		
-		{
-			"group" : "Commercial",
-			"type"	: "매뉴얼 설계",
-			"list_title" : "토니모리",
-			"image_title" : "토니모리",
-			"year" : 2012,
-			"location" : "서울특별시 강남구",
-			"thumbnail" : "/assets/images/projects/2012.05.00.jpg",
-			"images" : [
-				{
-					"url" : "/assets/images/projects/2012.05.01.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2012.05.02.jpg"
-				}
-			]
-		},
-		
+
 		{
 			"group" : "Commercial",
 			"type"	: "인테리어 설계 제안",
-			"list_title" : "나뚜르 카페 (현상참여)",
-			"image_title" : "나뚜르 카페",
-			"year" : 2012,
-			"location" : "서울특별시 용산구",
-			"thumbnail" : "/assets/images/projects/2011.05.00.jpg",
+			"list_title" : "제주 휘트니스",
+			"image_title" : "제주 휘트니스",
+			"year" : 2020,
+			"location" : "제주특별자치도 제주시",
+			"thumbnail" : "/assets/images/projects/2020.j.00.jpg",
 			"images" : [
 				{
-					"url" : "/assets/images/projects/2011.05.01.jpg"
+					"url" : "/assets/images/projects/2020.j.01.jpg"
 				},
 				{
-					"url" : "/assets/images/projects/2011.05.02.jpg"
+					"url" : "/assets/images/projects/2020.j.02.jpg"
 				},
 				{
-					"url" : "/assets/images/projects/2011.05.03.jpg"
+					"url" : "/assets/images/projects/2020.j.03.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2020.j.04.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2020.j.05.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2020.j.06.jpg"
 				}
 			]
 		},
@@ -1195,6 +1189,66 @@
 			]
 		},
 		
+		{
+			"group" : "Commercial",
+			"type"	: "매뉴얼 설계",
+			"list_title" : "토니모리",
+			"image_title" : "토니모리",
+			"year" : 2012,
+			"location" : "서울특별시 강남구",
+			"thumbnail" : "/assets/images/projects/2012.05.00.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2012.05.01.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2012.05.02.jpg"
+				}
+			]
+		},
+		
+		{
+			"group" : "Commercial",
+			"type"	: "인테리어 설계 제안 (현상참여)",
+			"list_title" : "나뚜르 카페",
+			"image_title" : "나뚜르 카페",
+			"year" : 2012,
+			"location" : "서울특별시 용산구",
+			"thumbnail" : "/assets/images/projects/2011.05.00.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2011.05.01.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2011.05.02.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2011.05.03.jpg"
+				}
+			]
+		},		
+		
+		{
+			"group" : "Commercial",
+			"type"	: "인테리어 설계",
+			"list_title" : "청담동 포레스트힐 카페",
+			"image_title" : "청담동 포레스트힐 카페",
+			"year" : 2012,
+			"location" : "서울특별시 강남구",
+			"thumbnail" : "/assets/images/projects/2012.04.00.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2012.04.01.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2012.04.03.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2012.04.02.jpg"
+				}
+			]
+		},
+			
 		{
 			"group" : "Leisure",
 			"type"	: "건축& 인테리어 설계",
@@ -1328,61 +1382,7 @@
 					"url" : "/assets/images/projects/2016.08.03.jpg"
 				}
 			]
-		},
-		
-		{
-			"group" : "Commercial",
-			"type"	: "인테리어 설계",
-			"list_title" : "한일관 서울라이트",
-			"image_title" : "한일관 서울라이트",
-			"year" : 2020,
-			"location" : "서울특별시 종로구",
-			"thumbnail" : "/assets/images/projects/2020.s.00.jpg",
-			"images" : [
-				{
-					"url" : "/assets/images/projects/2020.s.01.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2020.s.02.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2020.s.03.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2020.s.04.jpg"
-				}
-			]
-		},
-
-		{
-			"group" : "Commercial",
-			"type"	: "인테리어 설계 제안",
-			"list_title" : "제주 휘트니스",
-			"image_title" : "제주 휘트니스",
-			"year" : 2020,
-			"location" : "제주특별자치도 제주시",
-			"thumbnail" : "/assets/images/projects/2020.j.00.jpg",
-			"images" : [
-				{
-					"url" : "/assets/images/projects/2020.j.01.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2020.j.02.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2020.j.03.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2020.j.04.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2020.j.05.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2020.j.06.jpg"
-				}
-			]
-		},
+		},		
 
 		{
 			"group" : "Residence",
