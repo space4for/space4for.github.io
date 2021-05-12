@@ -986,7 +986,7 @@
 					"url" : "/assets/images/projects/2016.08.03.jpg"
 				}
 			]
-		},		
+		},
 
 		{
 			"group" : "Residence",
@@ -1275,7 +1275,7 @@
 				
 		{
 			"group" : "Residence",
-			"type"	: "인테리어 기획 설계",
+			"type"	: "인테리어 기획설계",
 			"list_title" : "구기동 P 빌라",
 			"image_title" : "구기동 P 빌라",
 			"year" : 2007,
