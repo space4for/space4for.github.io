@@ -566,198 +566,6 @@
 		},
 		
 		{
-			"group" : "Leisure",
-			"type"	: "인테리어 기획설계",
-			"list_title" : "솔모로 C.C. 클럽하우스",
-			"image_title" : "솔모로 C.C. 클럽하우스",
-			"year" : 2009,
-			"location" : "경기도 여주시",
-			"thumbnail" : "/assets/images/projects/2009.07.00.jpg",
-			"images" : [
-				{
-					"url" : "/assets/images/projects/2009.07.01.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2009.07.03.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2009.07.05.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2009.07.04.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2009.07.02.jpg"
-				}
-			]
-		},
-		
-		{
-			"group" : "Leisure",
-			"type"	: "건축&인테리어 기획설계",
-			"list_title" : "말레이시아 풀 빌라",
-			"image_title" : "말레이시아 풀 빌라",
-			"year" : 2009,
-			"location" : "말레이시아 코타키나발루",
-			"thumbnail" : "/assets/images/projects/2009.08.00.jpg",
-			"images" : [
-				{
-					"url" : "/assets/images/projects/2009.08.01.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2009.08.02.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2009.08.03.jpg"
-				}
-			]
-		},
-		
-		{
-			"group" : "Leisure",
-			"type"	: "인테리어 설계 제안",
-			"list_title" : "J 호텔",
-			"image_title" : "J 호텔",
-			"year" : 2009,
-			"location" : "서울시 강남구",
-			"thumbnail" : "/assets/images/projects/2009.09.00.jpg",
-			"images" : [
-				{
-					"url" : "/assets/images/projects/2009.09.01.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2009.09.02.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2009.09.03.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2009.09.04.jpg"
-				}
-			]
-		},
-		
-		{
-			"group" : "Leisure",
-			"type"	: "인테리어 설계",
-			"list_title" : "제주 성산 라마다 앙코르 호텔 객실 / M.H",
-			"image_title" : "제주 성산 라마다 앙코르 호텔 객실 / M.H",
-			"year" : 2014,
-			"location" : "제주특별자치도 서귀포시",
-			"thumbnail" : "/assets/images/projects/2014.04.00.jpg",
-			"images" : [
-				{
-					"url" : "/assets/images/projects/2014.04.01.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2014.04.02.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2014.04.04.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2014.04.03.jpg"
-				}
-			]
-		},
-		
-		{
-			"group" : "Leisure",
-			"type"	: "인테리어 설계",
-			"list_title" : "제주 함덕 라마다 앙코르 호텔 객실",
-			"image_title" : "제주 함덕 라마다 앙코르 호텔 객실",
-			"year" : 2014,
-			"location" : "제주특별자치도 제주시",
-			"thumbnail" : "/assets/images/projects/2014.05.00.jpg",
-			"images" : [
-				{
-					"url" : "/assets/images/projects/2014.05.01.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2014.05.02.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2014.05.04.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2014.05.03.jpg"
-				}
-			]
-		},
-		
-		{
-			"group" : "Leisure",
-			"type"	: "인테리어 설계",
-			"list_title" : "제주 성산 코업 시티 호텔",
-			"image_title" : "제주 성산 코업 시티 호텔",
-			"year" : 2015,
-			"location" : "제주특별자치도 서귀포시",
-			"thumbnail" : "/assets/images/projects/2015.02.00.jpg",
-			"images" : [
-				{
-					"url" : "/assets/images/projects/2015.02.01.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2015.02.02.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2015.02.03.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2015.02.04.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2015.02.05.jpg"
-				}
-			]
-		},
-		
-		{
-			"group" : "Leisure",
-			"type"	: "인테리어 설계 제안",
-			"list_title" : "인천 작전동 H호텔",
-			"image_title" : "인천 작전동 H호텔",
-			"year" : 2015,
-			"location" : "인천광역시 계양구",
-			"thumbnail" : "/assets/images/projects/2015.03.00.jpg",
-			"images" : [
-				{
-					"url" : "/assets/images/projects/2015.03.01.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2015.03.02.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2015.03.03.jpg"
-				}
-			]
-		},
-		
-		{
-			"group" : "Leisure",
-			"type"	: "인테리어 설계",
-			"list_title" : "구정헌",
-			"image_title" : "구정헌",
-			"year" : 2013,
-			"location" : "경상북도 경주시",
-			"thumbnail" : "/assets/images/projects/2013.04.00.jpg",
-			"images" : [
-				{
-					"url" : "/assets/images/projects/2013.04.01.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2013.04.03.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2013.04.04.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2013.04.05.jpg"
-				}
-			]
-		},
-		
-		{
 			"group" : "Education",
 			"type"	: "인테리어 설계",
 			"list_title" : "한국표준과학연구원 직장 어린이집",
@@ -890,39 +698,6 @@
 		},
 		
 		{
-			"group" : "Leisure",
-			"type"	: "인테리어 설계",
-			"list_title" : "포항 라마다 플라자 호텔",
-			"image_title" : "포항 라마다 플라자 호텔",
-			"year" : 2016,
-			"location" : "경상남도 포항",
-			"thumbnail" : "/assets/images/projects/2017.03.00.jpg",
-			"images" : [
-				{
-					"url" : "/assets/images/projects/2017.03.01.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2017.03.02.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2017.03.03.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2017.03.04.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2017.03.05.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2017.03.06.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2017.03.07.jpg"
-				}
-			]
-		},
-		
-		{
 			"group" : "Office",
 			"type"	: "인테리어 설계",
 			"list_title" : "한국표준과학연구원 물리동",
@@ -986,7 +761,232 @@
 					"url" : "/assets/images/projects/2016.08.03.jpg"
 				}
 			]
+		},		
+		
+		{
+			"group" : "Leisure",
+			"type"	: "인테리어 설계",
+			"list_title" : "포항 라마다 플라자 호텔",
+			"image_title" : "포항 라마다 플라자 호텔",
+			"year" : 2016,
+			"location" : "경상남도 포항",
+			"thumbnail" : "/assets/images/projects/2017.03.00.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2017.03.01.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2017.03.02.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2017.03.03.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2017.03.04.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2017.03.05.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2017.03.06.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2017.03.07.jpg"
+				}
+			]
 		},
+		
+		{
+			"group" : "Leisure",
+			"type"	: "인테리어 설계 제안",
+			"list_title" : "인천 작전동 H호텔",
+			"image_title" : "인천 작전동 H호텔",
+			"year" : 2015,
+			"location" : "인천광역시 계양구",
+			"thumbnail" : "/assets/images/projects/2015.03.00.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2015.03.01.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2015.03.02.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2015.03.03.jpg"
+				}
+			]
+		},
+		
+		{
+			"group" : "Leisure",
+			"type"	: "인테리어 설계",
+			"list_title" : "제주 성산 코업 시티 호텔",
+			"image_title" : "제주 성산 코업 시티 호텔",
+			"year" : 2015,
+			"location" : "제주특별자치도 서귀포시",
+			"thumbnail" : "/assets/images/projects/2015.02.00.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2015.02.01.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2015.02.02.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2015.02.03.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2015.02.04.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2015.02.05.jpg"
+				}
+			]
+		},
+		
+		{
+			"group" : "Leisure",
+			"type"	: "인테리어 설계",
+			"list_title" : "제주 함덕 라마다 앙코르 호텔 객실",
+			"image_title" : "제주 함덕 라마다 앙코르 호텔 객실",
+			"year" : 2014,
+			"location" : "제주특별자치도 제주시",
+			"thumbnail" : "/assets/images/projects/2014.05.00.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2014.05.01.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014.05.02.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014.05.04.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014.05.03.jpg"
+				}
+			]
+		},
+		
+		{
+			"group" : "Leisure",
+			"type"	: "인테리어 설계",
+			"list_title" : "제주 성산 라마다 앙코르 호텔 객실 / M.H",
+			"image_title" : "제주 성산 라마다 앙코르 호텔 객실 / M.H",
+			"year" : 2014,
+			"location" : "제주특별자치도 서귀포시",
+			"thumbnail" : "/assets/images/projects/2014.04.00.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2014.04.01.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014.04.02.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014.04.04.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014.04.03.jpg"
+				}
+			]
+		},	
+		
+		{
+			"group" : "Leisure",
+			"type"	: "인테리어 설계",
+			"list_title" : "구정헌",
+			"image_title" : "구정헌",
+			"year" : 2013,
+			"location" : "경상북도 경주시",
+			"thumbnail" : "/assets/images/projects/2013.04.00.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2013.04.01.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2013.04.03.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2013.04.04.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2013.04.05.jpg"
+				}
+			]
+		},	
+		
+		{
+			"group" : "Leisure",
+			"type"	: "인테리어 설계 제안",
+			"list_title" : "J 호텔",
+			"image_title" : "J 호텔",
+			"year" : 2009,
+			"location" : "서울시 강남구",
+			"thumbnail" : "/assets/images/projects/2009.09.00.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2009.09.01.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2009.09.02.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2009.09.03.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2009.09.04.jpg"
+				}
+			]
+		},
+		
+		{
+			"group" : "Leisure",
+			"type"	: "건축&인테리어 기획설계",
+			"list_title" : "말레이시아 풀 빌라",
+			"image_title" : "말레이시아 풀 빌라",
+			"year" : 2009,
+			"location" : "말레이시아 코타키나발루",
+			"thumbnail" : "/assets/images/projects/2009.08.00.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2009.08.01.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2009.08.02.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2009.08.03.jpg"
+				}
+			]
+		},		
+		
+		{
+			"group" : "Leisure",
+			"type"	: "인테리어 기획설계",
+			"list_title" : "솔모로 C.C. 클럽하우스",
+			"image_title" : "솔모로 C.C. 클럽하우스",
+			"year" : 2009,
+			"location" : "경기도 여주시",
+			"thumbnail" : "/assets/images/projects/2009.07.00.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2009.07.01.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2009.07.03.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2009.07.05.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2009.07.04.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2009.07.02.jpg"
+				}
+			]
+		},			
 
 		{
 			"group" : "Residence",
@@ -1037,8 +1037,8 @@
 					"url" : "/assets/images/projects/2020.g.13.jpg"
 				}
 			]
-		},
-					
+		},		
+		
 		{
 			"group" : "Residence",
 			"type"	: "인테리어 설계",
