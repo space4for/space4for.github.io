@@ -31,7 +31,7 @@ var parseList = function(data){
 		}
 	})
 	
-	projectList = [leisure, office, residence, medical, education, commercial];
+	projectList = [leisure, residence, office, medical, education, commercial];
 }
 
 var preload = function(){
