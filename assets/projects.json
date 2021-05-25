@@ -189,126 +189,51 @@
 				}
 			]
 		},
-		
-		{
-			"group" : "Office",
-			"type"	: "인테리어 기획설계",
-			"list_title" : "메리츠화재 강남 신사옥",
-			"image_title" : "메리츠화재 강남 신사옥",
-			"year" : 2009,
-			"location" : "서울특별시 강남구",
-			"thumbnail" : "/assets/images/projects/2009.03.00.jpg",
-			"images" : [
-				{
-					"url" : "/assets/images/projects/2009.03.04.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2009.03.05.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2009.03.02.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2009.03.01.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2009.03.03.jpg"
-				}
-			]
-		},
-		
-		{
-			"group" : "Office",
-			"type"	: "인테리어 기획설계",
-			"list_title" : "한진 중공업 필리핀 영빈관",
-			"image_title" : "한진 중공업 필리핀 영빈관",
-			"year" : 2009,
-			"location" : "필리핀 수빅",
-			"thumbnail" : "/assets/images/projects/2009.04.00.jpg",
-			"images" : [
-				{
-					"url" : "/assets/images/projects/2009.04.01.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2009.04.03.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2009.04.04.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2009.04.02.jpg"
-				}
-			]
-		},
-		
+
 		{
 			"group" : "Office",
 			"type"	: "인테리어 설계",
-			"list_title" : "한진 중공업 마닐라 사옥 V.I.P층",
-			"image_title" : "한진 중공업 마닐라 사옥 V.I.P층",
-			"year" : 2009,
-			"location" : "필리핀 마닐라",
-			"thumbnail" : "/assets/images/projects/2009.05.00.jpg",
+			"list_title" : "스페이스4 오피스",
+			"image_title" : "스페이스4 오피스",
+			"year" : 2016,
+			"location" : "서울특별시 마포구",
+			"thumbnail" : "/assets/images/projects/2016.08.00.jpg",
 			"images" : [
 				{
-					"url" : "/assets/images/projects/2009.05.01.jpg"
+					"url" : "/assets/images/projects/2016.08.01.jpg"
 				},
 				{
-					"url" : "/assets/images/projects/2009.05.02.jpg"
+					"url" : "/assets/images/projects/2016.08.02.jpg"
 				},
 				{
-					"url" : "/assets/images/projects/2009.05.03.jpg"
+					"url" : "/assets/images/projects/2016.08.03.jpg"
 				}
 			]
 		},
-		
-		{
-			"group" : "Office",
-			"type"	: "인테리어 기획설계",
-			"list_title" : "한진 중공업 중앙동 사옥",
-			"image_title" : "한진 중공업 중앙동 사옥",
-			"year" : 2009,
-			"location" : "부산광역시 중구 ",
-			"thumbnail" : "/assets/images/projects/2009.06.00.jpg",
-			"images" : [
-				{
-					"url" : "/assets/images/projects/2009.06.01.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2009.06.02.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2009.06.03.jpg"
-				}
-			]
-		},
-		
+						
 		{
 			"group" : "Office",
 			"type"	: "인테리어 설계",
-			"list_title" : "한국표준과학연구원 역학동",
-			"image_title" : "한국표준과학연구원 역학동",
-			"year" : 2013,
+			"list_title" : "한국표준과학연구원 물리동",
+			"image_title" : "한국표준과학연구원 물리동",
+			"year" : 2016,
 			"location" : "대전광역시 유성구",
-			"thumbnail" : "/assets/images/projects/2013.01.00.jpg",
+			"thumbnail" : "/assets/images/projects/2016.07.00.jpg",
 			"images" : [
 				{
-					"url" : "/assets/images/projects/2013.01.01.jpg"
+					"url" : "/assets/images/projects/2016.07.01.jpg"
 				},
 				{
-					"url" : "/assets/images/projects/2013.01.02.jpg"
+					"url" : "/assets/images/projects/2016.07.02.jpg"
 				},
 				{
-					"url" : "/assets/images/projects/2013.01.03.jpg"
+					"url" : "/assets/images/projects/2016.07.03.jpg"
 				},
 				{
-					"url" : "/assets/images/projects/2013.01.04.jpg"
+					"url" : "/assets/images/projects/2016.07.04.jpg"
 				},
 				{
-					"url" : "/assets/images/projects/2013.01.05.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2013.01.06.jpg"
+					"url" : "/assets/images/projects/2016.07.05.jpg"
 				}
 			]
 		},
@@ -316,53 +241,17 @@
 		{
 			"group" : "Office",
 			"type"	: "인테리어 설계",
-			"list_title" : "한국표준과학연구원 행정동 커뮤니케이션센터",
-			"image_title" : "한국표준과학연구원 행정동 커뮤니케이션센터",
-			"year" : 2012,
+			"list_title" : "한국표준과학연구원 행정동 대회의실",
+			"image_title" : "한국표준과학연구원 행정동 대회의실",
+			"year" : 2016,
 			"location" : "대전광역시 유성구",
-			"thumbnail" : "/assets/images/projects/2012.01.00.jpg",
+			"thumbnail" : "/assets/images/projects/2016.05.00.jpg",
 			"images" : [
 				{
-					"url" : "/assets/images/projects/2012.01.01.jpg"
+					"url" : "/assets/images/projects/2016.05.01.jpg"
 				},
 				{
-					"url" : "/assets/images/projects/2012.01.02.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2012.01.03.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2012.01.04.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2012.01.05.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2012.01.06.jpg"
-				}
-			]
-		},
-		
-		{
-			"group" : "Office",
-			"type"	: "인테리어 설계",
-			"list_title" : "한국표준과학연구원 첨단동 라운지",
-			"image_title" : "한국표준과학연구원 첨단동 라운지",
-			"year" : 2014,
-			"location" : "대전광역시 유성구",
-			"thumbnail" : "/assets/images/projects/2014.02.00.jpg",
-			"images" : [
-				{
-					"url" : "/assets/images/projects/2014.02.01.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2014.02.02.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2014.02.03.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2014.02.04.jpg"
+					"url" : "/assets/images/projects/2016.05.02.jpg"
 				}
 			]
 		},
@@ -384,96 +273,26 @@
 				}
 			]
 		},
-		
-		{
+				{
 			"group" : "Office",
-			"type"	: "인테리어 설계",
-			"list_title" : "금강제화 강남사옥 V.I.P층",
-			"image_title" : "금강제화 강남사옥 V.I.P층",
-			"year" : 2011,
-			"location" : "서울특별시 서초구",
-			"thumbnail" : "/assets/images/projects/2011.01.00.jpg",
+			"type"	: "건축&인테리어 설계",
+			"list_title" : "마고 북스 사옥",
+			"image_title" : "마고 북스 사옥",
+			"year" : 2014,
+			"location" : "서울특별시 마포구",
+			"thumbnail" : "/assets/images/projects/2014.06.00.jpg",
 			"images" : [
 				{
-					"url" : "/assets/images/projects/2011.01.01.jpg"
+					"url" : "/assets/images/projects/2014.06.01.jpg"
 				},
 				{
-					"url" : "/assets/images/projects/2011.01.02.jpg"
+					"url" : "/assets/images/projects/2014.06.02.jpg"
 				},
 				{
-					"url" : "/assets/images/projects/2011.01.03.jpg"
-				}
-			]
-		},
-		
-		{
-			"group" : "Office",
-			"type"	: "인테리어 설계 제안",
-			"list_title" : "유진 투자 증권 V.I.P층 (현상참여)",
-			"image_title" : "유진 투자 증권 V.I.P층",
-			"year" : 2010,
-			"location" : "서울특별시 영등포구",
-			"thumbnail" : "/assets/images/projects/2010.01.00.jpg",
-			"images" : [
-				{
-					"url" : "/assets/images/projects/2010.01.03.jpg"
+					"url" : "/assets/images/projects/2014.06.03.jpg"
 				},
 				{
-					"url" : "/assets/images/projects/2010.01.01.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2010.01.02.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2010.01.04.jpg"
-				}
-			]
-		},
-		
-		{
-			"group" : "Office",
-			"type"	: "인테리어 설계 제안",
-			"list_title" : "계룡 건설 사옥 (현상참여)",
-			"image_title" : "계룡 건설 사옥",
-			"year" : 2013,
-			"location" : "대전광역시 서구",
-			"thumbnail" : "/assets/images/projects/2013.02.00.jpg",
-			"images" : [
-				{
-					"url" : "/assets/images/projects/2013.02.01.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2013.02.02.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2013.02.03.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2013.02.04.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2013.02.05.jpg"
-				}
-			]
-		},
-		
-		{
-			"group" : "Office",
-			"type"	: "인테리어 설계",
-			"list_title" : "컴투게더 사옥 루프 탑 라운지",
-			"image_title" : "컴투게더 사옥 루프 탑 라운지",
-			"year" : 2011,
-			"location" : "서울특별시 강남구",
-			"thumbnail" : "/assets/images/projects/2011.02.00.jpg",
-			"images" : [
-				{
-					"url" : "/assets/images/projects/2011.02.03.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2011.02.01.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2011.02.02.jpg"
+					"url" : "/assets/images/projects/2014.06.04.jpg"
 				}
 			]
 		},
@@ -508,6 +327,30 @@
 		{
 			"group" : "Office",
 			"type"	: "인테리어 설계",
+			"list_title" : "한국표준과학연구원 첨단동 라운지",
+			"image_title" : "한국표준과학연구원 첨단동 라운지",
+			"year" : 2014,
+			"location" : "대전광역시 유성구",
+			"thumbnail" : "/assets/images/projects/2014.02.00.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2014.02.01.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014.02.02.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014.02.03.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2014.02.04.jpg"
+				}
+			]
+		},
+		
+		{
+			"group" : "Office",
+			"type"	: "인테리어 설계",
 			"list_title" : "산림비전센터 다목적 식당",
 			"image_title" : "산림비전센터 다목적 식당",
 			"year" : 2013,
@@ -523,6 +366,135 @@
 			]
 		},
 		
+		{
+			"group" : "Office",
+			"type"	: "인테리어 설계 제안",
+			"list_title" : "계룡 건설 사옥 (현상참여)",
+			"image_title" : "계룡 건설 사옥",
+			"year" : 2013,
+			"location" : "대전광역시 서구",
+			"thumbnail" : "/assets/images/projects/2013.02.00.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2013.02.01.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2013.02.02.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2013.02.03.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2013.02.04.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2013.02.05.jpg"
+				}
+			]
+		},		
+		
+		{
+			"group" : "Office",
+			"type"	: "인테리어 설계",
+			"list_title" : "한국표준과학연구원 역학동",
+			"image_title" : "한국표준과학연구원 역학동",
+			"year" : 2013,
+			"location" : "대전광역시 유성구",
+			"thumbnail" : "/assets/images/projects/2013.01.00.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2013.01.01.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2013.01.02.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2013.01.03.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2013.01.04.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2013.01.05.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2013.01.06.jpg"
+				}
+			]
+		},
+				
+		{
+			"group" : "Office",
+			"type"	: "인테리어 설계",
+			"list_title" : "한국표준과학연구원 행정동 커뮤니케이션센터",
+			"image_title" : "한국표준과학연구원 행정동 커뮤니케이션센터",
+			"year" : 2012,
+			"location" : "대전광역시 유성구",
+			"thumbnail" : "/assets/images/projects/2012.01.00.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2012.01.01.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2012.01.02.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2012.01.03.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2012.01.04.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2012.01.05.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2012.01.06.jpg"
+				}
+			]
+		},
+		
+		{
+			"group" : "Office",
+			"type"	: "인테리어 설계",
+			"list_title" : "컴투게더 사옥 루프 탑 라운지",
+			"image_title" : "컴투게더 사옥 루프 탑 라운지",
+			"year" : 2011,
+			"location" : "서울특별시 강남구",
+			"thumbnail" : "/assets/images/projects/2011.02.00.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2011.02.03.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2011.02.01.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2011.02.02.jpg"
+				}
+			]
+		},
+				
+		{
+			"group" : "Office",
+			"type"	: "인테리어 설계",
+			"list_title" : "금강제화 강남사옥 V.I.P층",
+			"image_title" : "금강제화 강남사옥 V.I.P층",
+			"year" : 2011,
+			"location" : "서울특별시 서초구",
+			"thumbnail" : "/assets/images/projects/2011.01.00.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2011.01.01.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2011.01.02.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2011.01.03.jpg"
+				}
+			]
+		},
+						
 		{
 			"group" : "Office",
 			"type"	: "건축&인테리어 설계",
@@ -543,24 +515,117 @@
 		
 		{
 			"group" : "Office",
-			"type"	: "건축&인테리어 설계",
-			"list_title" : "마고 북스 사옥",
-			"image_title" : "마고 북스 사옥",
-			"year" : 2014,
-			"location" : "서울특별시 마포구",
-			"thumbnail" : "/assets/images/projects/2014.06.00.jpg",
+			"type"	: "인테리어 설계 제안",
+			"list_title" : "유진 투자 증권 V.I.P층 (현상참여)",
+			"image_title" : "유진 투자 증권 V.I.P층",
+			"year" : 2010,
+			"location" : "서울특별시 영등포구",
+			"thumbnail" : "/assets/images/projects/2010.01.00.jpg",
 			"images" : [
 				{
-					"url" : "/assets/images/projects/2014.06.01.jpg"
+					"url" : "/assets/images/projects/2010.01.03.jpg"
 				},
 				{
-					"url" : "/assets/images/projects/2014.06.02.jpg"
+					"url" : "/assets/images/projects/2010.01.01.jpg"
 				},
 				{
-					"url" : "/assets/images/projects/2014.06.03.jpg"
+					"url" : "/assets/images/projects/2010.01.02.jpg"
 				},
 				{
-					"url" : "/assets/images/projects/2014.06.04.jpg"
+					"url" : "/assets/images/projects/2010.01.04.jpg"
+				}
+			]
+		},
+				
+		{
+			"group" : "Office",
+			"type"	: "인테리어 기획설계",
+			"list_title" : "한진 중공업 중앙동 사옥",
+			"image_title" : "한진 중공업 중앙동 사옥",
+			"year" : 2009,
+			"location" : "부산광역시 중구 ",
+			"thumbnail" : "/assets/images/projects/2009.06.00.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2009.06.01.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2009.06.02.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2009.06.03.jpg"
+				}
+			]
+		},
+		
+		{
+			"group" : "Office",
+			"type"	: "인테리어 설계",
+			"list_title" : "한진 중공업 마닐라 사옥 V.I.P층",
+			"image_title" : "한진 중공업 마닐라 사옥 V.I.P층",
+			"year" : 2009,
+			"location" : "필리핀 마닐라",
+			"thumbnail" : "/assets/images/projects/2009.05.00.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2009.05.01.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2009.05.02.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2009.05.03.jpg"
+				}
+			]
+		},		
+			
+		{
+			"group" : "Office",
+			"type"	: "인테리어 기획설계",
+			"list_title" : "한진 중공업 필리핀 영빈관",
+			"image_title" : "한진 중공업 필리핀 영빈관",
+			"year" : 2009,
+			"location" : "필리핀 수빅",
+			"thumbnail" : "/assets/images/projects/2009.04.00.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2009.04.01.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2009.04.03.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2009.04.04.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2009.04.02.jpg"
+				}
+			]
+		},
+		
+		{
+			"group" : "Office",
+			"type"	: "인테리어 기획설계",
+			"list_title" : "메리츠화재 강남 신사옥",
+			"image_title" : "메리츠화재 강남 신사옥",
+			"year" : 2009,
+			"location" : "서울특별시 강남구",
+			"thumbnail" : "/assets/images/projects/2009.03.00.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/2009.03.04.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2009.03.05.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2009.03.02.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2009.03.01.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2009.03.03.jpg"
 				}
 			]
 		},
@@ -659,74 +724,7 @@
 					"url" : "/assets/images/projects/2010.06.04.jpg"
 				}
 			]
-		},
-		
-		{
-			"group" : "Office",
-			"type"	: "인테리어 설계",
-			"list_title" : "한국표준과학연구원 물리동",
-			"image_title" : "한국표준과학연구원 물리동",
-			"year" : 2016,
-			"location" : "대전광역시 유성구",
-			"thumbnail" : "/assets/images/projects/2016.07.00.jpg",
-			"images" : [
-				{
-					"url" : "/assets/images/projects/2016.07.01.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2016.07.02.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2016.07.03.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2016.07.04.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2016.07.05.jpg"
-				}
-			]
-		},
-		
-		{
-			"group" : "Office",
-			"type"	: "인테리어 설계",
-			"list_title" : "한국표준과학연구원 행정동 대회의실",
-			"image_title" : "한국표준과학연구원 행정동 대회의실",
-			"year" : 2016,
-			"location" : "대전광역시 유성구",
-			"thumbnail" : "/assets/images/projects/2016.05.00.jpg",
-			"images" : [
-				{
-					"url" : "/assets/images/projects/2016.05.01.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2016.05.02.jpg"
-				}
-			]
-		},
-		
-		{
-			"group" : "Office",
-			"type"	: "인테리어 설계",
-			"list_title" : "스페이스4 오피스",
-			"image_title" : "스페이스4 오피스",
-			"year" : 2016,
-			"location" : "서울특별시 마포구",
-			"thumbnail" : "/assets/images/projects/2016.08.00.jpg",
-			"images" : [
-				{
-					"url" : "/assets/images/projects/2016.08.01.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2016.08.02.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2016.08.03.jpg"
-				}
-			]
 		},		
-		
 		
 		{
 			"group" : "Leisure",
