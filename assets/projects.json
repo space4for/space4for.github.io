@@ -2,6 +2,24 @@
 	"projects" :[
 				
 		{
+			"group" : "Education",
+			"type"	: "인테리어 설계",
+			"list_title" : "인하대 병원",
+			"image_title" : "인하대 병원",
+			"year" : 2017,
+			"location" : "울산광역시 동구",
+			"thumbnail" : "/assets/images/projects/17-03-B.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/17-03-1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/17-03-2.jpg"
+				}
+			]
+		},
+					
+		{
 			"group" : "Medical",
 			"type"	: "인테리어 설계",
 			"list_title" : "천안 연세나무 병원",
@@ -632,6 +650,24 @@
 		
 		{
 			"group" : "Education",
+			"type"	: "인테리어 설계 제안",
+			"list_title" : "울산시 육아종합지원센터",
+			"image_title" : "울산시 육아종합지원센터",
+			"year" : 2017,
+			"location" : "울산광역시 동구",
+			"thumbnail" : "/assets/images/projects/17-02-B.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/17-02-1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/17-02-2.jpg"
+				}
+			]
+		},
+				
+		{
+			"group" : "Education",
 			"type"	: "인테리어 설계",
 			"list_title" : "한국표준과학연구원 직장 어린이집",
 			"image_title" : "한국표준과학연구원 직장 어린이집",
@@ -724,8 +760,101 @@
 					"url" : "/assets/images/projects/2010.06.04.jpg"
 				}
 			]
+		},	
+		
+		{
+			"group" : "Leisure",
+			"type"	: "인테리어 설계",
+			"list_title" : "호텔 마리나베이 서울 (루프탑 특화시설)",
+			"image_title" : "호텔 마리나베이 서울 (루프탑 특화시설)",
+			"year" : 2019,
+			"location" : "경기도 김포시",
+			"thumbnail" : "/assets/images/projects/18-10-B.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/18-10-1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/18-10-2.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/18-10-3.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/18-10-4.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/18-10-5.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/18-04-6.jpg"
+				}
+			]
 		},		
 		
+		{
+			"group" : "Leisure",
+			"type"	: "인테리어 설계",
+			"list_title" : "호텔 마리나베이 서울 (키즈 특화시설)",
+			"image_title" : "호텔 마리나베이 서울 (키즈 특화시설)",
+			"year" : 2018,
+			"location" : "경기도 김포시",
+			"thumbnail" : "/assets/images/projects/18-09-B.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/18-09-1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/18-09-2.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/18-09-3.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/18-09-4.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/18-09-5.jpg"
+				}
+			]
+		},		
+		
+		{
+			"group" : "Leisure",
+			"type"	: "인테리어 설계",
+			"list_title" : "호텔 마리나베이 서울 (키즈 특화시설)",
+			"image_title" : "괌 호텔",
+			"year" : 2018,
+			"location" : "경기도 김포시",
+			"thumbnail" : "/assets/images/projects/18-04-B.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/18-04-1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/18-04-2.jpg"
+				}
+			]
+		},
+		
+		{
+			"group" : "Leisure",
+			"type"	: "인테리어 기획설계",
+			"list_title" : "괌 호텔",
+			"image_title" : "괌 호텔",
+			"year" : 2018,
+			"location" : "태국 센트럴 파타야",
+			"thumbnail" : "/assets/images/projects/18-04-B.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/18-04-1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/18-04-2.jpg"
+				}
+			]
+		},
+				
 		{
 			"group" : "Leisure",
 			"type"	: "인테리어 설계",
@@ -985,8 +1114,8 @@
 					"url" : "/assets/images/projects/2009.07.02.jpg"
 				}
 			]
-		},			
-
+		},	
+		
 		{
 			"group" : "Residence",
 			"type"	: "인테리어 설계 제안 (현상참여)",
@@ -1036,8 +1165,125 @@
 					"url" : "/assets/images/projects/2020.g.13.jpg"
 				}
 			]
-		},		
+		},	
 		
+		{
+			"group" : "Residence",
+			"type"	: "건축&인테리어 설계",
+			"list_title" : "포항 S 주택",
+			"image_title" : "포항 S 주택",
+			"year" : 2018,
+			"location" : "포항 북구",
+			"thumbnail" : "/assets/images/projects/18-07-B.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/18-07-1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/18-07-2.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/18-07-3.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/18-07-4.jpg"
+				}
+			]
+		},
+		
+		{
+			"group" : "Residence",
+			"type"	: "인테리어 설계",
+			"list_title" : "제주 H 주택",
+			"image_title" : "제주 H 주택",
+			"year" : 2018,
+			"location" : "제주특별자치도 제주시",
+			"thumbnail" : "/assets/images/projects/18-06-B.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/18-06-1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/18-06-2.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/18-06-3.jpg"
+				}
+			]
+		},
+		
+		{
+			"group" : "Residence",
+			"type"	: "건축 설계",
+			"list_title" : "부암동 B 주택",
+			"image_title" : "부암동 B 주택",
+			"year" : 2018,
+			"location" : "서울특별시 종로구",
+			"thumbnail" : "/assets/images/projects/18-03-B.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/18-03-1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/18-03-2.jpg"
+				}
+			]
+		},
+
+		{
+			"group" : "Residence",
+			"type"	: "건축 설계",
+			"list_title" : "부림동 다세대주택",
+			"image_title" : "부림동 다세대주택",
+			"year" : 2018,
+			"location" : "경기도 과천시",
+			"thumbnail" : "/assets/images/projects/18-02-B.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/18-02-1.jpg"
+				}
+			]
+		},
+
+		{
+			"group" : "Residence",
+			"type"	: "인테리어 설계",
+			"list_title" : "대경타워 펜트하우스",
+			"image_title" : "대경타워 펜트하우스",
+			"year" : 2018,
+			"location" : "서울특별시 강남구",
+			"thumbnail" : "/assets/images/projects/18-01-B.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/18-01-1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/18-01-2.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/18-01-3.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/18-01-4.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/18-01-5.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/18-01-6.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2020.g.11.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2020.g.12.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/2020.g.13.jpg"
+				}
+			]
+		},
+
 		{
 			"group" : "Residence",
 			"type"	: "인테리어 설계",
