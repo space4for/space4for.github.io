@@ -787,7 +787,7 @@
 					"url" : "/assets/images/projects/18-10-5.jpg"
 				},
 				{
-					"url" : "/assets/images/projects/18-04-6.jpg"
+					"url" : "/assets/images/projects/18-10-6.jpg"
 				}
 			]
 		},		
@@ -818,24 +818,6 @@
 				}
 			]
 		},		
-		
-		{
-			"group" : "Leisure",
-			"type"	: "인테리어 설계",
-			"list_title" : "호텔 마리나베이 서울 (키즈 특화시설)",
-			"image_title" : "괌 호텔",
-			"year" : 2018,
-			"location" : "경기도 김포시",
-			"thumbnail" : "/assets/images/projects/18-04-B.jpg",
-			"images" : [
-				{
-					"url" : "/assets/images/projects/18-04-1.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/18-04-2.jpg"
-				}
-			]
-		},
 		
 		{
 			"group" : "Leisure",
@@ -1271,15 +1253,6 @@
 				},
 				{
 					"url" : "/assets/images/projects/18-01-6.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2020.g.11.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2020.g.12.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2020.g.13.jpg"
 				}
 			]
 		},
