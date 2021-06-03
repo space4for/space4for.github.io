@@ -1029,8 +1029,8 @@
 		{
 			"group" : "Leisure",
 			"type"	: "인테리어 설계",
-			"list_title" : "구정헌",
-			"image_title" : "구정헌",
+			"list_title" : "경주 구정헌",
+			"image_title" : "경주 구정헌",
 			"year" : 2013,
 			"location" : "경상북도 경주시",
 			"thumbnail" : "/assets/images/projects/2013.04.00.jpg",
@@ -1053,8 +1053,8 @@
 		{
 			"group" : "Leisure",
 			"type"	: "인테리어 설계 제안",
-			"list_title" : "J 호텔",
-			"image_title" : "J 호텔",
+			"list_title" : "신사동 J 호텔",
+			"image_title" : "신사동 J 호텔",
 			"year" : 2009,
 			"location" : "서울시 강남구",
 			"thumbnail" : "/assets/images/projects/2009.09.00.jpg",
