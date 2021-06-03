@@ -1221,24 +1221,6 @@
 		{
 			"group" : "Residence",
 			"type"	: "건축 설계",
-			"list_title" : "부암동 B 주택",
-			"image_title" : "부암동 B 주택",
-			"year" : 2018,
-			"location" : "서울특별시 종로구",
-			"thumbnail" : "/assets/images/projects/18-03-B.jpg",
-			"images" : [
-				{
-					"url" : "/assets/images/projects/18-03-1.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/18-03-2.jpg"
-				}
-			]
-		},
-
-		{
-			"group" : "Residence",
-			"type"	: "건축 설계",
 			"list_title" : "부림동 다세대주택",
 			"image_title" : "부림동 다세대주택",
 			"year" : 2018,
