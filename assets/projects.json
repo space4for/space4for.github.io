@@ -4,10 +4,10 @@
 		{
 			"group" : "Medical",
 			"type"	: "인테리어 설계",
-			"list_title" : "인하대 병원",
-			"image_title" : "인하대 병원",
+			"list_title" : "인하대학교 병원",
+			"image_title" : "인하대학교 병원",
 			"year" : 2017,
-			"location" : "울산광역시 동구",
+			"location" : "울산광역시 중구",
 			"thumbnail" : "/assets/images/projects/17-03-B.jpg",
 			"images" : [
 				{
@@ -846,10 +846,10 @@
 		{
 			"group" : "Leisure",
 			"type"	: "인테리어 기획설계",
-			"list_title" : "괌 호텔",
-			"image_title" : "괌 호텔",
+			"list_title" : "더 베이뷰 호텔",
+			"image_title" : "더 베이뷰 호텔",
 			"year" : 2018,
-			"location" : "태국 센트럴 파타야",
+			"location" : "괌 타무닝",
 			"thumbnail" : "/assets/images/projects/18-04-B.jpg",
 			"images" : [
 				{
@@ -1253,9 +1253,9 @@
 
 		{
 			"group" : "Residence",
-			"type"	: "인테리어 설계",
-			"list_title" : "대경타워 펜트하우스",
-			"image_title" : "대경타워 펜트하우스",
+			"type"	: "인테리어 기획설계",
+			"list_title" : "강남 D타워 펜트하우스",
+			"image_title" : "강남 D타워 펜트하우스",
 			"year" : 2018,
 			"location" : "서울특별시 강남구",
 			"thumbnail" : "/assets/images/projects/18-01-B.jpg",
