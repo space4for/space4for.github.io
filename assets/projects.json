@@ -793,10 +793,10 @@
 			"thumbnail" : "/assets/images/projects/18-10-B.jpg",
 			"images" : [
 				{
-					"url" : "/assets/images/projects/18-10-2.jpg"
+					"url" : "/assets/images/projects/18-10-1.jpg"
 				},
 				{
-					"url" : "/assets/images/projects/18-10-1.jpg"
+					"url" : "/assets/images/projects/18-10-2.jpg"
 				},
 				{
 					"url" : "/assets/images/projects/18-10-3.jpg"
@@ -811,19 +811,13 @@
 					"url" : "/assets/images/projects/18-10-6.jpg"
 				},
 				{
-					"url" : "/assets/images/projects/18-09-1.jpg"
+					"url" : "/assets/images/projects/18-09-7.jpg"
 				},
 				{
-					"url" : "/assets/images/projects/18-09-2.jpg"
+					"url" : "/assets/images/projects/18-09-8.jpg"
 				},
 				{
-					"url" : "/assets/images/projects/18-09-3.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/18-09-4.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/18-09-5.jpg"
+					"url" : "/assets/images/projects/18-09-9.jpg"
 				}
 			]
 		},		
