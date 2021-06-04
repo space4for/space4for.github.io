@@ -785,15 +785,15 @@
 				}
 			]
 		},	
-		
+
 		{
 			"group" : "Leisure",
 			"type"	: "인테리어 설계",
-			"list_title" : "호텔 마리나베이 서울 (루프탑 특화시설)",
-			"image_title" : "호텔 마리나베이 서울 (루프탑 특화시설)",
-			"year" : 2019,
+			"list_title" : "호텔 마리나베이 서울 특화시설",
+			"image_title" : "호텔 마리나베이 서울 특화시설",
+			"year" : 2018,
 			"location" : "경기도 김포시",
-			"thumbnail" : "/assets/images/projects/18-10-B.jpg",
+			"thumbnail" : "/assets/images/projects/18-09-B.jpg",
 			"images" : [
 				{
 					"url" : "/assets/images/projects/18-10-1.jpg"
@@ -812,19 +812,7 @@
 				},
 				{
 					"url" : "/assets/images/projects/18-10-6.jpg"
-				}
-			]
-		},		
-		
-		{
-			"group" : "Leisure",
-			"type"	: "인테리어 설계",
-			"list_title" : "호텔 마리나베이 서울 (키즈 특화시설)",
-			"image_title" : "호텔 마리나베이 서울 (키즈 특화시설)",
-			"year" : 2018,
-			"location" : "경기도 김포시",
-			"thumbnail" : "/assets/images/projects/18-09-B.jpg",
-			"images" : [
+				},
 				{
 					"url" : "/assets/images/projects/18-09-1.jpg"
 				},
@@ -845,7 +833,7 @@
 		
 		{
 			"group" : "Leisure",
-			"type"	: "인테리어 기획설계",
+			"type"	: "인테리어 설계 제안",
 			"list_title" : "더 베이뷰 호텔",
 			"image_title" : "더 베이뷰 호텔",
 			"year" : 2018,
@@ -1220,7 +1208,7 @@
 		
 		{
 			"group" : "Residence",
-			"type"	: "건축 설계",
+			"type"	: "건축 파사드 리뉴얼",
 			"list_title" : "부림동 다세대주택",
 			"image_title" : "부림동 다세대주택",
 			"year" : 2018,
