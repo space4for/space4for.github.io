@@ -671,6 +671,51 @@
 		
 		{
 			"group" : "Education",
+			"type"	: "인테리어 설계",
+			"list_title" : "한림성심대학교 한빛도서관 북큐브&북카페",
+			"image_title" : "한림성심대학교 한빛도서관 북큐브&북카페",
+			"year" : 2019,
+			"location" : "강원도 춘천시",
+			"thumbnail" : "/assets/images/projects/19-07-B.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/19-07-1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/19-07-2.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/19-07-3.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/19-07-4.jpg"
+				}
+			]
+		},
+		
+		{
+			"group" : "Education",
+			"type"	: "인테리어 설계",
+			"list_title" : "작은 도서관 웃는책",
+			"image_title" : "작은 도서관 웃는책",
+			"year" : 2019,
+			"location" : "서울특별시 강동구",
+			"thumbnail" : "/assets/images/projects/19-03-B.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/19-03-1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/19-03-2.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/19-03-3.jpg"
+				}
+			]
+		},
+		
+		{
+			"group" : "Education",
 			"type"	: "인테리어 설계 제안",
 			"list_title" : "울산시 육아종합지원센터",
 			"image_title" : "울산시 육아종합지원센터",
