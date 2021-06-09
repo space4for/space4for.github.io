@@ -696,8 +696,8 @@
 		{
 			"group" : "Education",
 			"type"	: "인테리어 설계",
-			"list_title" : "작은 도서관 웃는책",
-			"image_title" : "작은 도서관 웃는책",
+			"list_title" : "작은도서관 웃는책",
+			"image_title" : "작은도서관 웃는책",
 			"year" : 2019,
 			"location" : "서울특별시 강동구",
 			"thumbnail" : "/assets/images/projects/19-03-B.jpg",
