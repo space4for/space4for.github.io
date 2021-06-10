@@ -1144,7 +1144,55 @@
 					"url" : "/assets/images/projects/2009.07.02.jpg"
 				}
 			]
-		},	
+		},
+		
+		{
+			"group" : "Residence",
+			"type"	: "인테리어 설계 제안 (현상참여)",
+			"list_title" : "고운동 타운하우스Ⅱ",
+			"image_title" : "고운동 타운하우스Ⅱ",
+			"year" : 2020,
+			"location" : "세종특별자치시 고운동",
+			"thumbnail" : "/assets/images/projects/20-03-B.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/20-03-1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/20-03-2.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/20-03-3.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/20-03-4.jpg"
+				}
+			]
+		},
+		
+		{
+			"group" : "Residence",
+			"type"	: "인테리어 설계",
+			"list_title" : "제주 저지리 타운하우스",
+			"image_title" : "제주 저지리 타운하우스",
+			"year" : 2020,
+			"location" : "제주특별자치도 제주시",
+			"thumbnail" : "/assets/images/projects/20-01-B.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/20-01-1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/20-01-2.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/20-01-3.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/20-01-4.jpg"
+				}
+			]
+		},
 		
 		{
 			"group" : "Residence",
@@ -1617,33 +1665,6 @@
 			]
 		},
 
-		{
-			"group" : "Commercial",
-			"type"	: "인테리어 설계 제안",
-			"list_title" : "제주 휘트니스",
-			"image_title" : "제주 휘트니스",
-			"year" : 2020,
-			"location" : "제주특별자치도 제주시",
-			"thumbnail" : "/assets/images/projects/2020.j.00.jpg",
-			"images" : [
-				{
-					"url" : "/assets/images/projects/2020.j.01.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2020.j.02.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2020.j.03.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/2020.j.04.jpg"
-				},			
-				{
-					"url" : "/assets/images/projects/2020.j.05.jpg"
-				}
-			]
-		},
-		
 		{
 			"group" : "Commercial",
 			"type"	: "인테리어 설계 제안 (현상참여)",
