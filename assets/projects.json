@@ -1148,6 +1148,60 @@
 		
 		{
 			"group" : "Residence",
+			"type"	: "건축&인테리어 기획설계",
+			"list_title" : "김포 B 타운하우스 4차",
+			"image_title" : "김포 B 타운하우스 4차",
+			"year" : 2021,
+			"location" : "경기도 김포시",
+			"thumbnail" : "/assets/images/projects/21-01-B.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/21-01-1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/21-01-2.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/21-01-3.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/21-01-4.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/21-01-5.jpg"
+				}
+			]
+		},
+				
+		{
+			"group" : "Residence",
+			"type"	: "인테리어 설계",
+			"list_title" : "헤센스마트 세대 / M.H",
+			"image_title" : "헤센스마트 세대 / M.H",
+			"year" : 2020,
+			"location" : "경기도 수원시",
+			"thumbnail" : "/assets/images/projects/21-01-B.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/21-01-1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/21-01-2.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/21-01-3.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/21-01-4.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/21-01-5.jpg"
+				}
+			]
+		},
+		
+		{
+			"group" : "Residence",
 			"type"	: "인테리어 설계 제안 (현상참여)",
 			"list_title" : "고운동 타운하우스Ⅱ",
 			"image_title" : "고운동 타운하우스Ⅱ",
