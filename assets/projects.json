@@ -668,7 +668,67 @@
 				}
 			]
 		},
-		
+				
+		{
+			"group" : "Education",
+			"type"	: "인테리어 설계",
+			"list_title" : "성남 책이랑 도서관",
+			"image_title" : "성남 책이랑 도서관",
+			"year" : 2020,
+			"location" : "경기도 성남시",
+			"thumbnail" : "/assets/images/projects/20-09-B.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/20-09-1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/20-09-2.jpg"
+				}
+			]
+		},
+						
+		{
+			"group" : "Education",
+			"type"	: "인테리어 설계",
+			"list_title" : "강남구립 행복한 도서관",
+			"image_title" : "강남구립 행복한 도서관",
+			"year" : 2020,
+			"location" : "서울특별시 강남구",
+			"thumbnail" : "/assets/images/projects/20-08-B.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/20-08-1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/20-08-2.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/20-08-3.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/20-08-4.jpg"
+				}
+			]
+		},
+				
+		{
+			"group" : "Education",
+			"type"	: "인테리어 설계",
+			"list_title" : "한림성심대학교 학생복지관",
+			"image_title" : "한림성심대학교 학생복지관",
+			"year" : 2020,
+			"location" : "강원도 춘천시",
+			"thumbnail" : "/assets/images/projects/20-02-B.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/20-02-1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/20-02-2.jpg"
+				}
+			]
+		},
+
 		{
 			"group" : "Education",
 			"type"	: "인테리어 설계",
@@ -1709,6 +1769,33 @@
 				},
 				{
 					"url" : "/assets/images/projects/2020.s.04.jpg"
+				}
+			]
+		},
+		
+		{
+			"group" : "Commercial",
+			"type"	: "건축&인테리어 설계",
+			"list_title" : "안성 B 스튜디오&카페",
+			"image_title" : "안성 B 스튜디오&카페",
+			"year" : 2020,
+			"location" : "경기도 안성",
+			"thumbnail" : "/assets/images/projects/20-05-B.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/20-05-1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/20-05-2.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/20-05-3.jpg"
+				},	
+				{
+					"url" : "/assets/images/projects/20-05-4.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/20-05-5.jpg"
 				}
 			]
 		},
