@@ -1180,22 +1180,16 @@
 			"image_title" : "헤센스마트 세대 / M.H",
 			"year" : 2020,
 			"location" : "경기도 수원시",
-			"thumbnail" : "/assets/images/projects/21-01-B.jpg",
+			"thumbnail" : "/assets/images/projects/20-05-B.jpg",
 			"images" : [
 				{
-					"url" : "/assets/images/projects/21-01-1.jpg"
+					"url" : "/assets/images/projects/20-05-1.jpg"
 				},
 				{
-					"url" : "/assets/images/projects/21-01-2.jpg"
+					"url" : "/assets/images/projects/20-05-2.jpg"
 				},
 				{
-					"url" : "/assets/images/projects/21-01-3.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/21-01-4.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/21-01-5.jpg"
+					"url" : "/assets/images/projects/20-05-3.jpg"
 				}
 			]
 		},
