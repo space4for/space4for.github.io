@@ -1315,13 +1315,13 @@
 					"url" : "/assets/images/projects/19-06-1.jpg"
 				},
 				{
-					"url" : "/assets/images/projects/19-06-2.jpg"
-				},
-				{
 					"url" : "/assets/images/projects/19-06-3.jpg"
 				},
 				{
 					"url" : "/assets/images/projects/19-06-4.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/19-06-5.jpg"
 				}
 			]
 		},
@@ -1352,9 +1352,6 @@
 				},
 				{
 					"url" : "/assets/images/projects/19-04-6.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/19-04-7.jpg"
 				}
 			]
 		},	
