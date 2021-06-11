@@ -1,24 +1,7 @@
 ﻿{
 	"projects" :[
 				
-		{
-			"group" : "Medical",
-			"type"	: "인테리어 설계",
-			"list_title" : "인하대학교 병원",
-			"image_title" : "인하대학교 병원",
-			"year" : 2017,
-			"location" : "인천광역시 중구",
-			"thumbnail" : "/assets/images/projects/17-03-B.jpg",
-			"images" : [
-				{
-					"url" : "/assets/images/projects/17-03-1.jpg"
-				},
-				{
-					"url" : "/assets/images/projects/17-03-2.jpg"
-				}
-			]
-		},
-					
+			
 		{
 			"group" : "Medical",
 			"type"	: "인테리어 설계",
@@ -48,6 +31,24 @@
 				},
 				{
 					"url" : "/assets/images/projects/2019.04.07.jpg"
+				}
+			]
+		},
+		
+		{
+			"group" : "Medical",
+			"type"	: "인테리어 설계",
+			"list_title" : "인하대학교 병원",
+			"image_title" : "인하대학교 병원",
+			"year" : 2017,
+			"location" : "인천광역시 중구",
+			"thumbnail" : "/assets/images/projects/17-03-B.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/17-03-1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/17-03-2.jpg"
 				}
 			]
 		},
