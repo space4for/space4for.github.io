@@ -1017,8 +1017,8 @@
 		{
 			"group" : "Leisure",
 			"type"	: "인테리어 설계 제안",
-			"list_title" : "인천 작전동 H호텔",
-			"image_title" : "인천 작전동 H호텔",
+			"list_title" : "인천 작전동 H 호텔",
+			"image_title" : "인천 작전동 H 호텔",
 			"year" : 2015,
 			"location" : "인천광역시 계양구",
 			"thumbnail" : "/assets/images/projects/2015.03.00.jpg",
@@ -1236,8 +1236,8 @@
 		{
 			"group" : "Residence",
 			"type"	: "인테리어 설계",
-			"list_title" : "헤센스마트 세대 / M.H",
-			"image_title" : "헤센스마트 세대 / M.H",
+			"list_title" : "신한건설 수원 오피스텔 세대",
+			"image_title" : "신한건설 수원 오피스텔 세대",
 			"year" : 2020,
 			"location" : "경기도 수원시",
 			"thumbnail" : "/assets/images/projects/20-05-B.jpg",
