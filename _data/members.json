@@ -22,18 +22,19 @@
 			"bwimage" : "assets/images/people/chanhwi_bw.jpg"
 		},
 		{
-			"name" : "정혜린", 
-			"name-en" : "Jung,<br> Hye-Rin",
-			"title" : "디자이너",
-			"image" : "assets/images/people/hyerin.jpg",
-			"bwimage" : "assets/images/people/hyerin_bw.jpg"
-		},
-		{
 			"name" : "김서혜", 
 			"name-en" : "Kim,<br> Seo-Hye",
 			"title" : "디자이너",
 			"image" : "assets/images/people/seohye.jpg",
 			"bwimage" : "assets/images/people/seohye_bw.jpg"
+		},
+		{
+			"name" : "", 
+			"name-en" : "Jung,<br> Hye-Rin",
+			"title" : "",
+			"image" : "assets/images/people/gray.jpg",
+			"bwimage" : "assets/images/people/gray_bw.jpg"
+			
 		}
 	]
 }
