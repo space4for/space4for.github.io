@@ -27,13 +27,7 @@
 			"title" : "디자이너",
 			"image" : "assets/images/people/seohye.jpg",
 			"bwimage" : "assets/images/people/seohye_bw.jpg"
-		},
-		{
-			"name" : "-", 
-			"name-en" : "-,<br> -",
-			"title" : "",
-			"image" : "assets/images/people/gray.jpg",
-			"bwimage" : "assets/images/people/gray_bw.jpg"
+		
 			
 		}
 	]
