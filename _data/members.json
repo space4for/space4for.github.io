@@ -10,21 +10,21 @@
 		{
 			"name" : "이란희", 
 			"name-en" : "Lee,<br> Ran-Hee",
-			"title" : "실장",
+			"title" : "",
 			"image" : "assets/images/people/ranhee.jpg",
 			"bwimage" : "assets/images/people/ranhee_bw.jpg"
 		},
 		{
 			"name" : "김찬휘", 
 			"name-en" : "Kim,<br> Chan-Hwi",
-			"title" : "팀장",
+			"title" : "",
 			"image" : "assets/images/people/chanhwi.jpg",
 			"bwimage" : "assets/images/people/chanhwi_bw.jpg"
 		},
 		{
 			"name" : "김서혜", 
 			"name-en" : "Kim,<br> Seo-Hye",
-			"title" : "디자이너",
+			"title" : "",
 			"image" : "assets/images/people/seohye.jpg",
 			"bwimage" : "assets/images/people/seohye_bw.jpg"
 		
