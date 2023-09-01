@@ -8,6 +8,13 @@
 			"bwimage" : "assets/images/people/junghwan_bw.jpg"
 		},
 		{
+			"name" : "최희재", 
+			"name-en" : "Choi,<br> Hee-Jae",
+			"title" : "",
+			"image" : "assets/images/people/heejae.jpg",
+			"bwimage" : "assets/images/people/heejae_bw.jpg"
+		},
+		{
 			"name" : "이란희", 
 			"name-en" : "Lee,<br> Ran-Hee",
 			"title" : "",
