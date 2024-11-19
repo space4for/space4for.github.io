@@ -893,7 +893,7 @@
 			"type"	: "인테리어 설계",
 			"list_title" : "제주 금능 리더스베이 스테이",
 			"image_title" : "제주 금능 리더스베이 스테이",
-			"year" : 2018,
+			"year" : 2022,
 			"location" : "제주도 한림읍 금능 ",
 			"thumbnail" : "/assets/images/projects/18-10-B.jpg",
 			"images" : [
@@ -905,8 +905,10 @@
 				},
 				{
 					"url" : "/assets/images/projects/22-01-3.jpg"
-				},
-				
+				}
+			]
+		},	
+		
 		{
 			"group" : "Leisure",
 			"type"	: "인테리어 설계",
