@@ -672,6 +672,30 @@
 		{
 			"group" : "Education",
 			"type"	: "인테리어 설계",
+			"list_title" : "신안산대학교 기숙사",
+			"image_title" : "신안산대학교 기숙사",
+			"year" : 2022,
+			"location" : "경기도 안산시",
+			"thumbnail" : "/assets/images/projects/22-02-B.jpg",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/22-02-1.jpg"
+				},
+				{
+					"url" : "/assets/images/projects/22-02-2.jpg"
+				}
+				{
+					"url" : "/assets/images/projects/22-02-3.jpg"
+				}
+				{
+					"url" : "/assets/images/projects/23-03-4.jpg"
+				}
+			]
+		},
+		
+		{
+			"group" : "Education",
+			"type"	: "인테리어 설계",
 			"list_title" : "성남 책이랑 도서관",
 			"image_title" : "성남 책이랑 도서관",
 			"year" : 2020,
@@ -684,6 +708,7 @@
 				{
 					"url" : "/assets/images/projects/20-09-2.jpg"
 				}
+				
 			]
 		},
 						
