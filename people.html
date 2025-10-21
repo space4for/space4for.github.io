@@ -40,24 +40,25 @@ layout : base
 					<table>
 						<tr height=400px>
 						{% for member in site.data.members.members %}
-							<td>
+							<td data-slug="{{ member.slug }}">
 								<div class="container" style="background-image: url({{ member.image }})">
-									<img class="people_bwimage" src="{{ member.bwimage}}"/>
+									<img class="people_bwimage" src="{{ member.bwimage}}" data-slug="{{ member.slug }}" alt="{{ member.name }}"/>
 									<div class="people_lable">
 										{{member.name}}<br>
 										<div class="people_title">
 										{{member.title}}
 										</div>
-									</div>	
+									</div>
 								</div>
-								
 							</td>
 						{% endfor %}
 						</tr>
 						<tr height=20px>
+						{% for member in site.data.members.members %}
 							<td>
-								<div id="btn_ljw" class="people_btn"></div>
+								<div class="people_btn" data-slug="{{ member.slug }}"></div>
 							</td>
+						{% endfor %}
 						</tr>
 					</table>
 				</div>				
@@ -90,14 +91,34 @@ layout : base
 							<div class="pf-col1"></div><div class="pf-col2">스튜디오 "SPACE4" 건축 파트너</div>
 						</div>
 					</div>
-					
+
 					<div id="chj" class="pf-table hidden">
+						<div class="row">
+							<div class="pf-col1 pf-name">최희재</div><div class="pf-col2 pf-name-eng">Choi, Hee-Jae</div>
+						</div>
+						<br>
+						<div class="row">
+							<div class="pf-col1">현</div><div class="pf-col2">스튜디오 "SPACE4" 실장</div>
+						</div>
+					</div>
+					
+					<div id="lrh" class="pf-table hidden">
 						<div class="row">
 							<div class="pf-col1 pf-name">이란희</div><div class="pf-col2 pf-name-eng">Lee, Ran-Hee</div>
 						</div>
 						<br>
 						<div class="row">
-							<div class="pf-col1">현</div><div class="pf-col2">스튜디오 "SPACE4" 실장</div>
+							<div class="pf-col1">현</div><div class="pf-col2">스튜디오 "SPACE4" 팀장</div>
+						</div>
+					</div>
+
+					<div id="kch" class="pf-table hidden">
+						<div class="row">
+							<div class="pf-col1 pf-name">김찬휘</div><div class="pf-col2 pf-name-eng">Kim, Chan-Hwi</div>
+						</div>
+						<br>
+						<div class="row">
+							<div class="pf-col1">현</div><div class="pf-col2">스튜디오 "SPACE4" 팀장</div>
 						</div>
 					</div>
 				</div>

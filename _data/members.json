@@ -3,6 +3,7 @@
 		{
 			"name" : "이정환", 
 			"name-en" : "Lee,<br> Jung-Hwan",
+			"slug" : "ljh",
 			"title" : "건축소장",
 			"image" : "assets/images/people/junghwan.jpg",
 			"bwimage" : "assets/images/people/junghwan_bw.jpg"
@@ -10,6 +11,7 @@
 		{
 			"name" : "최희재", 
 			"name-en" : "Choi,<br> Hee-Jae",
+			"slug" : "chj",
 			"title" : "",
 			"image" : "assets/images/people/heejae.jpg",
 			"bwimage" : "assets/images/people/heejae_bw.jpg"
@@ -17,6 +19,7 @@
 		{
 			"name" : "이란희", 
 			"name-en" : "Lee,<br> Ran-Hee",
+			"slug" : "lrh",
 			"title" : "",
 			"image" : "assets/images/people/ranhee.jpg",
 			"bwimage" : "assets/images/people/ranhee_bw.jpg"
@@ -24,6 +27,7 @@
 		{
 			"name" : "김찬휘", 
 			"name-en" : "Kim,<br> Chan-Hwi",
+			"slug" : "kch",
 			"title" : "",
 			"image" : "assets/images/people/chanhwi.jpg",
 			"bwimage" : "assets/images/people/chanhwi_bw.jpg"

@@ -1,22 +1,20 @@
-$(document).ready(function(){	
-	$("#btn_ljw").hover(function(){
-		$("#ljh").toggleClass('hidden visible');
-		$(".people_bwimage:eq(0)").toggleClass('hidden', 'visible');
-		$("#btn_ljw").toggleClass('rotate90');
+$(document).ready(function(){
+	$(".people_btn").hover(function(){
+		const slug = $(this).data("slug");
+		const $cell = $(this).closest("td");
+		const index = $cell.index();
+		
+		$("#" + slug).toggleClass('hidden visible');
+		$(".people_bwimage").eq(index).toggleClass('hidden visible');
+		$(this).toggleClass('rotate90');
 	}, function(){
-		$("#ljh").toggleClass('hidden visible');
-		$(".people_bwimage:eq(0)").toggleClass('hidden visible');
-		$("#btn_ljw").toggleClass('rotate90');
-	});
-	
-	$("#btn_chj").hover(function(){
-		$("#chj").toggleClass('hidden visible');
-		$(".people_bwimage:eq(1)").toggleClass('hidden visible');
-		$("#btn_chj").toggleClass('rotate90');
-	}, function(){
-		$("#chj").toggleClass('hidden visible');
-		$(".people_bwimage:eq(1)").toggleClass('hidden visible');
-		$("#btn_chj").toggleClass('rotate90');
+		const slug = $(this).data("slug");
+		const $cell = $(this).closest("td");
+		const index = $cell.index();
+		
+		$("#" + slug).toggleClass('hidden visible');
+		$(".people_bwimage").eq(index).toggleClass('hidden visible');
+		$(this).toggleClass('rotate90');
 	});
 	
 	$(".container").hover(function(){
