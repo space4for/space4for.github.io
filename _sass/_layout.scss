@@ -1,5 +1,3 @@
-@use "variables" as *;
-
 /**
  * Home
  */
@@ -62,7 +60,7 @@
 		display: inline-block;
 		width: 17px;
 		height: 17px;
-		background-image:url('/assets/images/icon_facebook.png');
+		background-image:url('../assets/images/icon_facebook.png');
 	}
 	
 	.menu_instagram {
@@ -70,14 +68,14 @@
 		width: 17px;
 		height: 17px;
 		margin: 0 10px;
-		background-image:url('/assets/images/icon_instagram.png');
+		background-image:url('../assets/images/icon_instagram.png');
 	}
 	
 	.menu_pinterest {
 		display: inline-block;
 		width: 17px;
 		height: 17px;
-		background-image:url('/assets/images/icon_pinterest.png');
+		background-image:url('../assets/images/icon_pinterest.png');
 	}
 }
 body.nav-open .mobile-nav {max-height: 100vh;padding: 10px 0;opacity: 1;}
@@ -148,7 +146,7 @@ body.nav-open .site-nav .menu-icon span:after { top: -1px; -webkit-transform: ro
 		display: inline-block;
 		width: 17px;
 		height: 17px;
-		background-image:url('/assets/images/icon_facebook.png');
+		background-image:url('../assets/images/icon_facebook.png');
 	}
 	
 	.menu_instagram {
@@ -156,14 +154,14 @@ body.nav-open .site-nav .menu-icon span:after { top: -1px; -webkit-transform: ro
 		width: 17px;
 		height: 17px;
 		margin: 0 10px;
-		background-image:url('/assets/images/icon_instagram.png');
+		background-image:url('../assets/images/icon_instagram.png');
 	}
 	
 	.menu_pinterest {
 		display: inline-block;
 		width: 17px;
 		height: 17px;
-		background-image:url('/assets/images/icon_pinterest.png');
+		background-image:url('../assets/images/icon_pinterest.png');
 	}
 	
 	
@@ -283,27 +281,27 @@ body.nav-open .site-nav .menu-icon span:after { top: -1px; -webkit-transform: ro
 		opacity:0;		
 	}
 	
-	._00 {background-image:url('/assets/images/profile/thumb/00.png');}
-	._01 {background-image:url('/assets/images/profile/thumb/01-1.jpg');}
-	._02 {background-image:url('/assets/images/profile/thumb/02-1.jpg');}
-	._03 {background-image:url('/assets/images/profile/thumb/03-1.jpg');}
-	._04 {background-image:url('/assets/images/profile/thumb/04-1.jpg');}
-	._05 {background-image:url('/assets/images/profile/thumb/05-1.jpg');}
-	._06 {background-image:url('/assets/images/profile/thumb/06-1.jpg');}
-	._07 {background-image:url('/assets/images/profile/thumb/07-1.jpg');}
-	._08 {background-image:url('/assets/images/profile/thumb/08-1.jpg');}
-	._09 {background-image:url('/assets/images/profile/thumb/09-1.jpg');}
-	._10 {background-image:url('/assets/images/profile/thumb/10-1.jpg');}
-	._11 {background-image:url('/assets/images/profile/thumb/11-1.jpg');}
-	._12 {background-image:url('/assets/images/profile/thumb/12-1.jpg');}
-	._13 {background-image:url('/assets/images/profile/thumb/13-1.jpg');}
-	._14 {background-image:url('/assets/images/profile/thumb/14-1.jpg');}
-	._15 {background-image:url('/assets/images/profile/thumb/15-1.jpg');}
-	._16 {background-image:url('/assets/images/profile/thumb/16-1.jpg');}
-	._17 {background-image:url('/assets/images/profile/thumb/17-1.jpg');}
-	._18 {background-image:url('/assets/images/profile/thumb/18-1.jpg');}
-	._19 {background-image:url('/assets/images/profile/thumb/19-1.jpg');}
-	._20 {background-image:url('/assets/images/profile/thumb/20-1.jpg');}
+	._00 {background-image:url('../assets/images/profile/thumb/00.png');}
+	._01 {background-image:url('../assets/images/profile/thumb/01-1.jpg');}
+	._02 {background-image:url('../assets/images/profile/thumb/02-1.jpg');}
+	._03 {background-image:url('../assets/images/profile/thumb/03-1.jpg');}
+	._04 {background-image:url('../assets/images/profile/thumb/04-1.jpg');}
+	._05 {background-image:url('../assets/images/profile/thumb/05-1.jpg');}
+	._06 {background-image:url('../assets/images/profile/thumb/06-1.jpg');}
+	._07 {background-image:url('../assets/images/profile/thumb/07-1.jpg');}
+	._08 {background-image:url('../assets/images/profile/thumb/08-1.jpg');}
+	._09 {background-image:url('../assets/images/profile/thumb/09-1.jpg');}
+	._10 {background-image:url('../assets/images/profile/thumb/10-1.jpg');}
+	._11 {background-image:url('../assets/images/profile/thumb/11-1.jpg');}
+	._12 {background-image:url('../assets/images/profile/thumb/12-1.jpg');}
+	._13 {background-image:url('../assets/images/profile/thumb/13-1.jpg');}
+	._14 {background-image:url('../assets/images/profile/thumb/14-1.jpg');}
+	._15 {background-image:url('../assets/images/profile/thumb/15-1.jpg');}
+	._16 {background-image:url('../assets/images/profile/thumb/16-1.jpg');}
+	._17 {background-image:url('../assets/images/profile/thumb/17-1.jpg');}
+	._18 {background-image:url('../assets/images/profile/thumb/18-1.jpg');}
+	._19 {background-image:url('../assets/images/profile/thumb/19-1.jpg');}
+	._20 {background-image:url('../assets/images/profile/thumb/20-1.jpg');}
 }
 
 .profile {
@@ -476,7 +474,7 @@ body.nav-open .site-nav .menu-icon span:after { top: -1px; -webkit-transform: ro
 .people_btn {
 	height:12px;
 	width:12px;
-	background-image: url('/assets/images/plus.png');
+	background-image: url('../assets/images/plus.png');
 	background-repeat: no-repeat;
 	cursor: pointer;
 	transition: 0.5s;
@@ -568,11 +566,11 @@ body.nav-open .site-nav .menu-icon span:after { top: -1px; -webkit-transform: ro
 	
 	.swiper-button-prev {
 		left:0;
-		background-image: url('/assets/images/arrow_left.png');
+		background-image: url('../assets/images/arrow_left.png');
 	}
 	.swiper-button-next {
 		right:0;
-		background-image: url('/assets/images/arrow_right.png');
+		background-image: url('../assets/images/arrow_right.png');
 	}
 	
 	.swiper-pagination-bullet {
@@ -700,14 +698,14 @@ body.nav-open .site-nav .menu-icon span:after { top: -1px; -webkit-transform: ro
 .project-list-table::-webkit-scrollbar-button:start {
 	width:11px;
 	height:10px;
-    background-image: url('/assets/images/arrow_up.png');
+    background-image: url('../assets/images/arrow_up.png');
 	background-repeat: no-repeat;
 }
 
 .project-list-table::-webkit-scrollbar-button:end {
 	width:11px;
 	height:10px;
-    background-image: url('/assets/images/arrow_down.png');
+    background-image: url('../assets/images/arrow_down.png');
 	background-repeat: no-repeat;
 }
 
