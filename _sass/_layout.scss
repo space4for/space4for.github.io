@@ -46,7 +46,9 @@
 	}
 	
 	@include media-query($on-palm) {
-		display: block; 
+		display: block;
+		/* 본문·썸네일(z-index 10~12) 위로; 햄버거는 .site-nav가 더 위 */
+		z-index: 10000;
 	}
 	
 	.social_container {
@@ -78,7 +80,7 @@
 		background-image:url('../assets/images/icon_pinterest.png');
 	}
 }
-body.nav-open .mobile-nav {max-height: 100vh;padding: 10px 0;opacity: 1;}
+body.nav-open .mobile-nav { max-height: 100vh; padding: 10px 0; opacity: 1; }
 body.nav-open .site-nav .menu-icon span { background: transparent; }
 body.nav-open .site-nav .menu-icon span:before { top: 1px; -webkit-transform: rotate(45deg); -moz-transform: rotate(45deg); -ms-transform: rotate(45deg); -o-transform: rotate(45deg); transform: rotate(45deg); }
 body.nav-open .site-nav .menu-icon span:after { top: -1px; -webkit-transform: rotate(-45deg); -moz-transform: rotate(-45deg); -ms-transform: rotate(-45deg); -o-transform: rotate(-45deg); transform: rotate(-45deg); }
@@ -168,12 +170,14 @@ body.nav-open .site-nav .menu-icon span:after { top: -1px; -webkit-transform: ro
 	@include media-query($on-palm) {
 		top: 9px;
         left: 10px;
+		z-index: 10001;
 		
 		.menu-icon {
 			position: fixed;
 			display: block;
 			background: white;
 			width: 100%;
+			z-index: 10002;
 		}
 		
 		.trigger {
