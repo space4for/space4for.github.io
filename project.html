@@ -1,25 +1,26 @@
 ---
 layout : base
 ---
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.2/css/swiper.min.css" crossorigin="anonymous">
 <nav class="site-nav">	
 	<a href="#" class="menu-icon">
 		<span></span>
 	</a>
 	<div class="trigger">
 		<div>
-			<a class="page-link menu_about " href="{{ 'about.html' | prepend: site.baseurl }}">About</a>
+			<a class="page-link menu_about " href="{{ 'about.html' | relative_url }}">About</a>
 		</div>
 		<div>
-			<a class="page-link menu_profile " href="{{ 'profile.html' | prepend: site.baseurl }}">Profile</a>
+			<a class="page-link menu_profile " href="{{ 'profile.html' | relative_url }}">Profile</a>
 		</div>
 		<div>
-			<a class="page-link menu_people " href="{{ 'people.html' | prepend: site.baseurl }}">People</a>
+			<a class="page-link menu_people " href="{{ 'people.html' | relative_url }}">People</a>
 		</div>
 		<div>
-			<a class="page-link menu_project selected" href="{{ 'project.html' | prepend: site.baseurl }}">Project</a>
+			<a class="page-link menu_project selected" href="{{ 'project.html' | relative_url }}">Project</a>
 		</div>
 		<div>
-			<a class="page-link menu_contact" href="{{ 'contact.html' | prepend: site.baseurl }}">Contact</a>
+			<a class="page-link menu_contact" href="{{ 'contact.html' | relative_url }}">Contact</a>
 		</div>		
 		<div class="social_container">
 			<a href = {{ site.facebook_username | prepend: "https://www.facebook.com/"}} target="_blank"><div class="menu_facebook"></div></a>
@@ -77,19 +78,19 @@ layout : base
 </article>
 <div class="mobile-nav">
 	<div>
-		<a href="{{ 'about.html' | prepend: site.baseurl }}">About</a>
+		<a href="{{ 'about.html' | relative_url }}">About</a>
 	</div>
 	<div>
-		<a href="{{ 'profile.html' | prepend: site.baseurl }}">Profile</a>
+		<a href="{{ 'profile.html' | relative_url }}">Profile</a>
 	</div>
 	<div>
-		<a href="{{ 'people.html' | prepend: site.baseurl }}">People</a>
+		<a href="{{ 'people.html' | relative_url }}">People</a>
 	</div>
 	<div>
-		<a class="selected" href="{{ 'project.html' | prepend: site.baseurl }}">Project</a>
+		<a class="selected" href="{{ 'project.html' | relative_url }}">Project</a>
 	</div>
 	<div>
-		<a href="{{ 'contact.html' | prepend: site.baseurl }}">Contact</a>
+		<a href="{{ 'contact.html' | relative_url }}">Contact</a>
 	</div>
 	<div class="social_container">
 		<a href = {{ site.facebook_username | prepend: "https://www.facebook.com/"}} target="_blank"><div class="menu_facebook"></div></a>
@@ -103,5 +104,5 @@ layout : base
 		$("body").toggleClass("nav-open");
 	});
 </script>
-<script src="{{ '/assets/js/swiper.jquery.min.js' | prepend: site.baseurl | prepend: site.url }}"></script>
-<script src="{{ '/assets/js/project.js' | prepend: site.baseurl | prepend: site.url }}"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.2/js/swiper.jquery.min.js" crossorigin="anonymous"></script>
+<script src="{{ '/assets/js/project.js' | relative_url }}"></script>

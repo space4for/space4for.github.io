@@ -1,5 +1,16 @@
 var popup = null;
 
+function sitePath(path) {
+	var b = typeof window.SITE_BASE_URL !== 'undefined' ? window.SITE_BASE_URL : '';
+	if (!path) {
+		return path;
+	}
+	if (path.charAt(0) === '/') {
+		return b + path;
+	}
+	return b + '/' + path;
+}
+
 var makePopup = function(title, url, year, company){
 	if(popup == null){
 		popup = $("<div/>", {
@@ -15,7 +26,7 @@ var makePopup = function(title, url, year, company){
 		});	
 		
 		var image = $("<div/>").appendTo(popup).css({
-			"background-image" : "url(/assets/images/profile/" + url + ".jpg)",
+			"background-image" : "url('" + sitePath('/assets/images/profile/' + url + '.jpg') + "')",
 			"background-position": "50% 70%",
 			"background-size": "cover",
 			"background-repeat": "no-repeat",
@@ -68,12 +79,72 @@ var makePopup = function(title, url, year, company){
 	}
 }
 
-$(document).ready(function(){	
-	$.each($(".btn"), function(index, value){		
-		(new Image()).src = "/assets/images/profile/" + $(this).data("url") + ".jpg";
-		
-		$(this).on("click", function(){
-			makePopup($(this).data("title"), $(this).data("url"), $(this).data("year"), $(this).data("company"))
+function revealProfileImageGrid() {
+	var $wrap = $('.profile_image.profile-image--pending');
+	if (!$wrap.length) {
+		return;
+	}
+	var $imgs = $wrap.find('img');
+	var extra = [];
+	var jsonEl = document.getElementById('profile-preload-bg');
+	if (jsonEl) {
+		try {
+			extra = JSON.parse(jsonEl.textContent.replace(/^\uFEFF/, '').trim());
+		} catch (e) {}
+	}
+	var total = $imgs.length + extra.length;
+	if (total === 0) {
+		$wrap.removeClass('profile-image--pending').addClass('profile-image--ready');
+		return;
+	}
+	var left = total;
+	var revealed = false;
+	var timeoutId = setTimeout(finish, 15000);
+
+	function finish() {
+		if (revealed) {
+			return;
+		}
+		revealed = true;
+		clearTimeout(timeoutId);
+		$wrap.removeClass('profile-image--pending').addClass('profile-image--ready');
+	}
+
+	function done() {
+		left -= 1;
+		if (left <= 0) {
+			finish();
+		}
+	}
+
+	$imgs.each(function () {
+		var img = this;
+		if (img.complete && img.naturalWidth > 0) {
+			done();
+		} else {
+			$(img).one('load error', done);
+		}
+	});
+
+	extra.forEach(function (url) {
+		if (!url) {
+			done();
+			return;
+		}
+		var im = new Image();
+		im.onload = im.onerror = done;
+		im.src = url;
+	});
+}
+
+$(document).ready(function () {
+	revealProfileImageGrid();
+
+	$.each($('.btn'), function () {
+		(new Image()).src = sitePath('/assets/images/profile/' + $(this).data('url') + '.jpg');
+
+		$(this).on('click', function () {
+			makePopup($(this).data('title'), $(this).data('url'), $(this).data('year'), $(this).data('company'));
 		});
 	});
 });

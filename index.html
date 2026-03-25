@@ -2,13 +2,22 @@
 layout : logo
 ---
 
-<canvas id="logo-canvas-removed"></canvas>
 <div class="logo">
-	<a href="{{'about.html' | prepend: site.baseurl | prepend: site.url}}">
-		<img src='{{ "/assets/images/logo.png" | prepend: site.baseurl | prepend: site.url }}'></img>
+	<a href="{{ 'about.html' | relative_url }}">
+		<img src="{{ '/assets/images/logo.png' | relative_url }}" alt="SPACE4" fetchpriority="high">
 	</a>
 </div>
-<script src="{{ '/assets/js/TweenLite.min.js' | prepend: site.baseurl | prepend: site.url }}"></script>
-<script src="{{ '/assets/js/EasePack.min.js' | prepend: site.baseurl | prepend: site.url }}"></script>
-<script src="{{ '/assets/js/rAF.js' | prepend: site.baseurl | prepend: site.url }}"></script>
-<script src="{{ '/assets/js/logo.js' | prepend: site.baseurl | prepend: site.url }}"></script>
+<script>
+window.__PREFETCH_URLS__ = [
+	'{{ '/assets/images/about.png' | relative_url }}',
+	'{{ '/assets/images/logo-footer.png' | relative_url }}'
+	{%- for m in site.data.members.members -%}
+	,'{{ '/' | append: m.image | relative_url }}','{{ '/' | append: m.bwimage | relative_url }}'
+	{%- endfor -%}
+	{%- assign profile_thumbs = "00_bw.png|01-1_bw.jpg|02-1_bw.jpg|03-1_bw.jpg|04-1_bw.jpg|05-1_bw.jpg|06-1_bw.jpg|07-1_bw.jpg|08-1_bw.jpg|09-1_bw.jpg|10-1_bw.jpg|11-1_bw.jpg|12-1_bw.jpg|13-1_bw.jpg|14-1_bw.jpg|15-1_bw.jpg|16-1_bw.jpg|17-1_bw.jpg|18-1_bw.jpg|19-1_bw.jpg|20-1_bw.jpg" | split: "|" -%}
+	{%- for t in profile_thumbs -%}
+	,'{{ '/assets/images/profile/thumb/' | append: t | relative_url }}'
+	{%- endfor -%}
+];
+</script>
+<script src="{{ '/assets/js/home-prefetch.js' | relative_url }}" defer></script>

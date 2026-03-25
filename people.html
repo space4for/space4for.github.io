@@ -2,7 +2,6 @@
 layout : base
 ---
 
-<script src="{{ '/assets/js/people.js' | prepend: site.baseurl | prepend: site.url }}"></script>
 
 <nav class="site-nav">	
 	<a href="#" class="menu-icon">
@@ -10,19 +9,19 @@ layout : base
 	</a>
 	<div class="trigger">
 		<div>
-			<a class="page-link menu_about " href="{{ 'about.html' | prepend: site.baseurl }}">About</a>
+			<a class="page-link menu_about " href="{{ 'about.html' | relative_url }}">About</a>
 		</div>
 		<div>
-			<a class="page-link menu_profile " href="{{ 'profile.html' | prepend: site.baseurl }}">Profile</a>
+			<a class="page-link menu_profile " href="{{ 'profile.html' | relative_url }}">Profile</a>
 		</div>
 		<div>
-			<a class="page-link menu_people selected" href="{{ 'people.html' | prepend: site.baseurl }}">People</a>
+			<a class="page-link menu_people selected" href="{{ 'people.html' | relative_url }}">People</a>
 		</div>
 		<div>
-			<a class="page-link menu_project" href="{{ 'project.html' | prepend: site.baseurl }}">Project</a>
+			<a class="page-link menu_project" href="{{ 'project.html' | relative_url }}">Project</a>
 		</div>
 		<div>
-			<a class="page-link menu_contact" href="{{ 'contact.html' | prepend: site.baseurl }}">Contact</a>
+			<a class="page-link menu_contact" href="{{ 'contact.html' | relative_url }}">Contact</a>
 		</div>	
 		<div class="social_container">
 			<a href = {{ site.facebook_username | prepend: "https://www.facebook.com/"}} target="_blank"><div class="menu_facebook"></div></a>
@@ -41,8 +40,8 @@ layout : base
 						<tr height=400px>
 						{% for member in site.data.members.members %}
 							<td data-slug="{{ member.slug }}">
-								<div class="container" style="background-image: url({{ member.image }})">
-									<img class="people_bwimage" src="{{ member.bwimage}}" data-slug="{{ member.slug }}" alt="{{ member.name }}"/>
+								<div class="container" style="background-image: url('{{ member.image | prepend: '/' | relative_url }}')">
+									<img class="people_bwimage" src="{{ member.bwimage | prepend: '/' | relative_url }}" data-slug="{{ member.slug }}" alt="{{ member.name }}"/>
 									<div class="people_lable">
 										{{member.name}}<br>
 										<div class="people_title">
@@ -128,19 +127,19 @@ layout : base
 </article>
 <div class="mobile-nav">
 	<div>
-		<a href="{{ 'about.html' | prepend: site.baseurl }}">About</a>
+		<a href="{{ 'about.html' | relative_url }}">About</a>
 	</div>
 	<div>
-		<a href="{{ 'profile.html' | prepend: site.baseurl }}">Profile</a>
+		<a href="{{ 'profile.html' | relative_url }}">Profile</a>
 	</div>
 	<div>
-		<a class="selected" href="{{ 'people.html' | prepend: site.baseurl }}">People</a>
+		<a class="selected" href="{{ 'people.html' | relative_url }}">People</a>
 	</div>
 	<div>
-		<a href="{{ 'project.html' | prepend: site.baseurl }}">Project</a>
+		<a href="{{ 'project.html' | relative_url }}">Project</a>
 	</div>
 	<div>
-		<a href="{{ 'contact.html' | prepend: site.baseurl }}">Contact</a>
+		<a href="{{ 'contact.html' | relative_url }}">Contact</a>
 	</div>
 	<div class="social_container">
 		<a href = {{ site.facebook_username | prepend: "https://www.facebook.com/"}} target="_blank"><div class="menu_facebook"></div></a>
@@ -154,3 +153,4 @@ layout : base
 		$("body").toggleClass("nav-open");
 	});
 </script>
+<script src="{{ '/assets/js/people.js' | relative_url }}"></script>

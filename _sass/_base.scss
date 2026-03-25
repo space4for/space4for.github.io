@@ -1,3 +1,7 @@
+@use "variables" as *;
+@use "sass:math";
+@use "sass:color";
+
 /**
  * Reset some basic elements
  */
@@ -65,7 +69,7 @@ a {
     text-decoration: none;
 
     &:visited {
-        color: darken($text-color, 15%);
+        color: color.adjust($text-color, $lightness: -15%);
     }
 
     &:hover {
@@ -109,8 +113,8 @@ a {
 	
 	@include media-query($on-palm) {
         width: calc(100vw - #{$spacing-unit});
-        padding-right: $spacing-unit / 2;
-        padding-left: $spacing-unit / 2;
+        padding-right: math.div($spacing-unit, 2);
+        padding-left: math.div($spacing-unit, 2);
     }
 }
 

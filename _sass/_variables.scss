@@ -1,0 +1,30 @@
+$base-font-family: 'Nanum Gothic', Arial, sans-serif;
+$base-font-size:   16px;
+$base-font-weight: 400;
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 1.5;
+$nav-line-height: 2;
+
+$header-height: 60px;
+$footer-height: 60px;
+
+$spacing-unit:     30px;
+
+$text-color:       #868686;
+$text-bold-color:  #414042;
+$text-foot-color:  #b3b3b3;
+
+$background-color: #ffffff;
+$dev-color: #dfdfaf;
+$brand-color:      #d61f26;
+
+$content-width:    1280px;
+$content-height:    100vh;
+$on-palm:          900px;
+$on-small:        	430px;
+
+@mixin media-query($device) {
+    @media screen and (max-width: $device) {
+        @content;
+    }
+}

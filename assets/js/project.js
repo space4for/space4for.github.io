@@ -1,5 +1,28 @@
 var projectList = [];
 
+function sitePath(path) {
+	var b = typeof window.SITE_BASE_URL !== 'undefined' ? window.SITE_BASE_URL : '';
+	if (!path) {
+		return path;
+	}
+	if (path.charAt(0) === '/') {
+		return b + path;
+	}
+	return b + '/' + path;
+}
+
+function escapeCssUrl(u) {
+	return String(u).replace(/\\/g, '/').replace(/'/g, "\\'");
+}
+
+function escapeHtml(s) {
+	return String(s)
+		.replace(/&/g, '&amp;')
+		.replace(/</g, '&lt;')
+		.replace(/>/g, '&gt;')
+		.replace(/"/g, '&quot;');
+}
+
 var parseList = function(data){
 	var medical = [];
 	var office = [];
@@ -29,30 +52,31 @@ var parseList = function(data){
 				commercial.push(value);
 				break;
 		}
-	})
+	});
 	
 	projectList = [leisure, residence, office, medical, education, commercial];
-}
+};
 
 var preload = function(){
-	for (var i in projectList){
-		var list = projectList[i];
-		for (var j in list){
-				(new Image()).src = list[j].thumbnail;
+	var i, j, list;
+	for (i = 0; i < projectList.length; i++){
+		list = projectList[i];
+		for (j = 0; j < list.length; j++){
+			(new Image()).src = sitePath(list[j].thumbnail);
 		}
 	}
-}
+};
 
 var makeButtons = function(place){
-	for (var i in projectList){
-		var list = projectList[i];
-		for (var j in list){
-			var row = $("<div/>", {
+	var i, j, list, row, col1, col2;
+	for (i = 0; i < projectList.length; i++){
+		list = projectList[i];
+		for (j = 0; j < list.length; j++){
+			row = $("<div/>", {
 				"class":"row"
 			});
 			
-			var col1;
-			if(j == 0){
+			if(j === 0){
 				col1 = $("<div/>", {
 				"class":"type",
 				text: list[j].group[0]
@@ -64,8 +88,7 @@ var makeButtons = function(place){
 				}).appendTo(row);
 			}
 			
-			var img_list = JSON
-			var col2 = $("<div/>", {
+			col2 = $("<div/>", {
 				"class":"title",
 				text: list[j].list_title,
 				"data-thumb":list[j].thumbnail,
@@ -93,13 +116,11 @@ var makeButtons = function(place){
 		);
 	}
 	
-	$(place)
-	
 	preload();
-}
+};
 
 var onHover = function(){	
-	var imageURL = $(this).data('thumb');
+	var imageURL = sitePath($(this).data('thumb'));
 	
 	$(".thumbshow").css({"top": $(this).offset().top});
 	$(".thumbshow").css({"left": $(this).offset().left - 230});
@@ -115,10 +136,21 @@ var onHover = function(){
 		});		
 		$(".thumbshow").html(img);
 	}	
-}
+};
 var mySwiper = null;
 
+function appendProjectSlides(swiper, images) {
+	var i, url, slideUrl;
+	for (i = 0; i < images.length; i++){
+		url = sitePath(images[i].url);
+		slideUrl = escapeCssUrl(url);
+		swiper.appendSlide('<div class="swiper-slide" style="background-image:url(\'' + slideUrl + '\')"></div>');
+	}
+}
+
 var showSlider = function(){
+	var list, type, location, year;
+
 	$(".title").removeClass('selected');
 	$(this).toggleClass('selected');
 
@@ -134,10 +166,8 @@ var showSlider = function(){
 		speed: 1000
 		});
 		
-		var list = $(this).data('image');
-		for (i in list){
-			mySwiper.appendSlide('<div class="swiper-slide" style="background-image:url(' + list[i].url + ')"></div>');
-		}
+		list = $(this).data('image');
+		appendProjectSlides(mySwiper, list);
 		$(".swiper-container").css({"visibility" : "visible"});
 		$(".swiper-button-prev").css({"visibility" : "visible"});
 		$(".swiper-button-next").css({"visibility" : "visible"});
@@ -149,10 +179,8 @@ var showSlider = function(){
 	else
 	{
 		mySwiper.removeAllSlides();
-		var list = $(this).data('image');
-		for (i in list){
-			mySwiper.appendSlide('<div class="swiper-slide" style="background-image:url(' + list[i].url + ')"></div>');
-		}
+		list = $(this).data('image');
+		appendProjectSlides(mySwiper, list);
 		$(".swiper-container").css({"visibility" : "visible"});
 		mySwiper.slideTo(1);
 		mySwiper.update(true);
@@ -160,40 +188,39 @@ var showSlider = function(){
 	}
 	
 	
-	var type = $(this).data('type');
-	var title = $(this).data('title');
-	var location = $(this).data('location');
-	var year = $(this).data('year');	
+	type = $(this).data('type');
+	location = $(this).data('location');
+	year = $(this).data('year');	
 	
 	$(".description").fadeOut(200, function(){
 		$(".description").html( 
 			"<div class='desc'>" + 
-			//"<b>" + title + "</b><br>" +
-			type + "<br>" +
-			year + "<br>"	+
-			location + "</div>"
+			escapeHtml(type) + "<br>" +
+			escapeHtml(year) + "<br>"	+
+			escapeHtml(location) + "</div>"
 		);
 	}
 	).fadeIn();
-}
+};
 
 var triggerFirst = function(){
 	if($('body').width() < 900){		
 		$('.title').eq(0).trigger('click');
 	}		
-}
+};
 
 $(document).ready(function(){
 	$.ajax(
 		{
-			url: "/assets/projects.json",
+			url: sitePath('/assets/projects.json'),
+			dataType: 'json',
 			success: function(result){
 				parseList(result);
 				makeButtons('.project-list-table');
 				triggerFirst();
 			},
 			error: function(xhr, status, errormsg){
-				console.log(errormsg);
+				console.log(status, errormsg);
 			}
 		}
 	);
