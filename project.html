@@ -38,33 +38,23 @@ layout : base
 					<div class="thumbshow container"></div>
 					<table class="slideshow">
 						<tr>
-							<td>
-								<div class="swiper-button-prev"></div>
-							</td>
-							<td>
-								<!-- Slider main container -->
-								<div class="swiper-container">
-								<!-- Additional required wrapper -->
-									<div class="swiper-wrapper">
-									</div>								
-								</div>								
-							</td>
-							<td>
-								<div class="swiper-button-next"></div>
+							<td class="slideshow__main">
+								<div class="slideshow__row">
+									<div class="swiper-button-prev" aria-label="이전"></div>
+									<div class="swiper-container">
+										<div class="swiper-wrapper"></div>
+									</div>
+									<div class="swiper-button-next" aria-label="다음"></div>
+								</div>
 							</td>
 						</tr>
 						<tr>
-							<td></td>
-							<td>
+							<td class="slideshow__pagination-cell">
 								<div class="swiper-pagination"></div>
 							</td>
-							<td></td>
 						</tr>
 						<tr>
-							<td></td>
-							<td class="description">
-							</td>
-							<td></td>
+							<td class="description"></td>
 						</tr>
 					</table>
 				</div>
