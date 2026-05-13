@@ -9,28 +9,27 @@
 			"bwimage" : "assets/images/people/junghwan_bw.jpg"
 		},
 		{
-			"name" : "최희재", 
+			"name" : "최희재",
 			"name-en" : "Choi,<br> Hee-Jae",
 			"slug" : "chj",
-			"title" : "",
+			"title" : "수석실장",
 			"image" : "assets/images/people/heejae.jpg",
 			"bwimage" : "assets/images/people/heejae_bw.jpg"
 		},
 		{
-			"name" : "이란희", 
+			"name" : "이란희",
 			"name-en" : "Lee,<br> Ran-Hee",
 			"slug" : "lrh",
-			"title" : "",
+			"title" : "실장",
 			"image" : "assets/images/people/ranhee.jpg",
 			"bwimage" : "assets/images/people/ranhee_bw.jpg"
 		},
 		{
-			"name" : "김찬휘", 
+			"name" : "김찬휘",
 			"name-en" : "Kim,<br> Chan-Hwi",
 			"slug" : "kch",
-			"title" : "",
+			"title" : "팀장",
 			"image" : "assets/images/people/chanhwi.jpg",
 			"bwimage" : "assets/images/people/chanhwi_bw.jpg"
-		}
-	]
+		}	]
 }
