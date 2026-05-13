@@ -1,4 +1,4 @@
-﻿{
+{
 	"projects" :[
 		
 		{
@@ -208,6 +208,39 @@
 			]
 		},
 		
+		{
+			"group" : "Office",
+			"type"	: "인테리어 설계",
+			"list_title" : "하나은행 글로벌캠퍼스 대강의실",
+			"image_title" : "하나은행 글로벌캠퍼스 대강의실",
+			"year" : 2025,
+			"location" : "인천광역시 서구 청라",
+			"thumbnail" : "",
+			"images" : []
+		},
+
+		{
+			"group" : "Office",
+			"type"	: "인테리어 기획",
+			"list_title" : "채널A미라클랩 리뉴얼",
+			"image_title" : "채널A미라클랩 리뉴얼",
+			"year" : 2024,
+			"location" : "",
+			"thumbnail" : "",
+			"images" : []
+		},
+
+		{
+			"group" : "Office",
+			"type"	: "인테리어 설계",
+			"list_title" : "포스코 SPS 금형 연구소 라운지",
+			"image_title" : "포스코 SPS 금형 연구소 라운지",
+			"year" : 2021,
+			"location" : "충청남도 천안시 서북구",
+			"thumbnail" : "",
+			"images" : []
+		},
+
 		{
 			"group" : "Office",
 			"type"	: "인테리어 설계",
@@ -912,6 +945,17 @@
 				}
 			]
 		},	
+
+		{
+			"group" : "Leisure",
+			"type"	: "인테리어 설계",
+			"list_title" : "강동U1센터 라운지",
+			"image_title" : "강동U1센터 라운지",
+			"year" : 2024,
+			"location" : "서울특별시 강동구",
+			"thumbnail" : "",
+			"images" : []
+		},
 
 		{
 			"group" : "Leisure",
