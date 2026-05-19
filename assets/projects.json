@@ -237,8 +237,27 @@
 			"image_title" : "채널A미라클랩 리뉴얼",
 			"year" : 2024,
 			"location" : "",
-			"thumbnail" : "",
-			"images" : []
+			"thumbnail" : "/assets/images/projects/24-01-1.png",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/24-01-1.png"
+				},
+				{
+					"url" : "/assets/images/projects/24-01-2.png"
+				},
+				{
+					"url" : "/assets/images/projects/24-01-3.png"
+				},
+				{
+					"url" : "/assets/images/projects/24-01-4.png"
+				},
+				{
+					"url" : "/assets/images/projects/24-01-5.png"
+				},
+				{
+					"url" : "/assets/images/projects/24-01-6.png"
+				}
+			]
 		},
 
 		{
