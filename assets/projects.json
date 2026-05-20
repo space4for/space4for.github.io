@@ -215,8 +215,21 @@
 			"image_title" : "하나은행 글로벌캠퍼스 대강의실",
 			"year" : 2025,
 			"location" : "인천광역시 서구 청라",
-			"thumbnail" : "",
-			"images" : []
+			"thumbnail" : "/assets/images/projects/26-01-00.png",
+			"images" : [
+				{
+					"url" : "/assets/images/projects/26-01-1.png"
+				},
+				{
+					"url" : "/assets/images/projects/26-01-2.png"
+				},
+				{
+					"url" : "/assets/images/projects/26-01-3.png"
+				},
+				{
+					"url" : "/assets/images/projects/26-01-4.png"
+				}
+			]
 		},
 
 		{
